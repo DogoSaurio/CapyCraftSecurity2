@@ -8887,6 +8887,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-27 21:31:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-27 21:02:32 +0000"
@@ -9199,6 +9205,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 21:31:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 20:59:56 +0000"
@@ -9373,6 +9385,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 21:31:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-27 21:02:32 +0000"
@@ -9508,6 +9526,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-27 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 21:31:57 +0000"
     },
     "done": true
   },
