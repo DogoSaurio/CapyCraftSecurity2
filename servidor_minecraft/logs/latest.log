@@ -1,0 +1,983 @@
+[27Dec2024 19:48:08.612] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[27Dec2024 19:48:08.616] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[27Dec2024 19:48:10.929] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Dec2024 19:48:10.942] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[27Dec2024 19:48:10.976] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[27Dec2024 19:48:11.009] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[27Dec2024 19:48:11.066] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/CapyCraftSecurity2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23198%23201!/ Service=ModLauncher Env=SERVER
+[27Dec2024 19:48:11.792] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Dec2024 19:48:11.793] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Dec2024 19:48:11.795] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Dec2024 19:48:11.798] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Dec2024 19:48:12.779] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[27Dec2024 19:48:12.787] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 74 dependencies adding them to mods collection
+[27Dec2024 19:48:13.990] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 18 candidates to load
+[27Dec2024 19:48:16.274] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[27Dec2024 19:48:20.262] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Dec2024 19:48:21.042] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[27Dec2024 19:48:21.069] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[27Dec2024 19:48:21.394] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
+[27Dec2024 19:48:21.395] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[27Dec2024 19:48:21.411] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[27Dec2024 19:48:21.492] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 214 options available, 0 override(s) found
+[27Dec2024 19:48:21.592] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Dec2024 19:48:21.758] [main/WARN] [mixin/]: Reference map 'guccivuitton.refmap.json' for guccivuitton.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Dec2024 19:48:21.838] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[27Dec2024 19:48:21.962] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Dec2024 19:48:22.996] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:23.014] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:23.939] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[27Dec2024 19:48:23.941] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[27Dec2024 19:48:23.942] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[27Dec2024 19:48:23.947] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[27Dec2024 19:48:23.947] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[27Dec2024 19:48:23.948] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[27Dec2024 19:48:26.521] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[27Dec2024 19:48:26.521] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[27Dec2024 19:48:26.522] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer from mod (unknown)
+[27Dec2024 19:48:26.524] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[27Dec2024 19:48:26.526] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[27Dec2024 19:48:26.526] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu from mod (unknown)
+[27Dec2024 19:48:26.531] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[27Dec2024 19:48:26.532] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel from mod (unknown)
+[27Dec2024 19:48:27.147] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[27Dec2024 19:48:28.703] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (23.85 s after launch)
+[27Dec2024 19:48:29.526] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[27Dec2024 19:48:29.527] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[27Dec2024 19:48:30.050] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[27Dec2024 19:48:30.051] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[27Dec2024 19:48:31.162] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:31.171] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:34.463] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5751 milliseconds
+[27Dec2024 19:48:35.769] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:35.772] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Dec2024 19:48:35.864] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss from mod epicfight should be final
+[27Dec2024 19:48:35.865] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss from mod epicfight should be final
+[27Dec2024 19:48:37.764] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[27Dec2024 19:48:37.764] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[27Dec2024 19:48:37.765] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[27Dec2024 19:48:37.765] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[27Dec2024 19:48:37.824] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$zmk000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[27Dec2024 19:48:38.813] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin from mod alexscaves has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[27Dec2024 19:48:39.036] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[27Dec2024 19:48:40.789] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_damage] Expected: 730 Got: 39
+[27Dec2024 19:48:40.790] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_chance] Expected: 731 Got: 40
+[27Dec2024 19:48:40.790] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:haste] Expected: 732 Got: 41
+[27Dec2024 19:48:41.598] [main/INFO] [chronosacaria.mcda.Mcda/]: Registering Blocks for mcda
+[27Dec2024 19:48:41.681] [main/INFO] [shield_api/]: Shield API initialized!
+[27Dec2024 19:48:42.617] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.617] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.618] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.620] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.620] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.621] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.621] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[27Dec2024 19:48:42.753] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[27Dec2024 19:48:42.890] [modloading-worker-0/INFO] [dev.su5ed.sinytra.connectorextras.terrablenderbridge.TerraBlenderBridge/]: Injecting TerraBlender API classes
+[27Dec2024 19:48:43.869] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[27Dec2024 19:48:44.661] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[27Dec2024 19:48:44.662] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibArmorCompat
+[27Dec2024 19:48:44.668] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[27Dec2024 19:48:44.820] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[27Dec2024 19:48:44.821] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[27Dec2024 19:48:44.822] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[27Dec2024 19:48:44.826] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[27Dec2024 19:48:44.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[27Dec2024 19:48:44.829] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[27Dec2024 19:48:44.830] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[27Dec2024 19:48:45.134] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Dec2024 19:48:45.139] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Dec2024 19:48:45.574] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[27Dec2024 19:48:45.603] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[27Dec2024 19:48:46.035] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[27Dec2024 19:48:46.058] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[27Dec2024 19:48:46.059] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[27Dec2024 19:48:46.062] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[27Dec2024 19:48:47.867] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[27Dec2024 19:48:47.867] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Dec2024 19:48:48.640] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[27Dec2024 19:48:48.753] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[27Dec2024 19:48:49.212] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[27Dec2024 19:48:49.212] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[27Dec2024 19:48:54.884] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[27Dec2024 19:48:54.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.932] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:54.932] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[27Dec2024 19:48:56.162] [Thread-1/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[27Dec2024 19:48:56.488] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[27Dec2024 19:48:56.489] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[27Dec2024 19:48:56.490] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[27Dec2024 19:48:56.491] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[27Dec2024 19:48:56.491] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[27Dec2024 19:48:56.606] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[27Dec2024 19:48:56.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[27Dec2024 19:48:57.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[27Dec2024 19:48:57.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[27Dec2024 19:48:57.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[27Dec2024 19:48:57.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[27Dec2024 19:48:57.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[27Dec2024 19:48:57.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[27Dec2024 19:48:58.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[27Dec2024 19:48:58.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[27Dec2024 19:48:58.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[27Dec2024 19:48:58.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Dec2024 19:48:58.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[27Dec2024 19:48:58.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[27Dec2024 19:48:58.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[27Dec2024 19:48:58.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[27Dec2024 19:49:05.498] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[27Dec2024 19:49:05.499] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[27Dec2024 19:49:05.499] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[27Dec2024 19:49:05.503] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[27Dec2024 19:49:05.582] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[27Dec2024 19:49:05.634] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[27Dec2024 19:49:05.634] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[27Dec2024 19:49:05.635] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[27Dec2024 19:49:05.635] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[27Dec2024 19:49:05.635] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[27Dec2024 19:49:05.635] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[27Dec2024 19:49:05.635] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[27Dec2024 19:49:05.636] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[27Dec2024 19:49:05.755] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[27Dec2024 19:49:05.756] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[27Dec2024 19:49:05.756] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[27Dec2024 19:49:05.757] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[27Dec2024 19:49:05.758] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[27Dec2024 19:49:05.758] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[27Dec2024 19:49:05.759] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[27Dec2024 19:49:05.956] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[27Dec2024 19:49:05.977] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[27Dec2024 19:49:06.168] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[27Dec2024 19:49:06.304] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[27Dec2024 19:49:06.312] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.blakebr0.mysticalagriculture.compat.JadeCompat
+[27Dec2024 19:49:06.313] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[27Dec2024 19:49:06.323] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[27Dec2024 19:49:06.326] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[27Dec2024 19:49:06.327] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[27Dec2024 19:49:06.573] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.573] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.575] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.575] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.576] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.576] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.576] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.577] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.577] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.577] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.579] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.580] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.581] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.581] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.581] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.582] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.582] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.582] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.583] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.583] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.583] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.583] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.583] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.584] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.584] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.584] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.584] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.585] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.586] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.587] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.588] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.588] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.589] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.589] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.590] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.590] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.590] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.592] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.592] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.592] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.594] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.594] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.594] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.596] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.597] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.597] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.597] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.597] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.598] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.598] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.599] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.599] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.600] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.600] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.602] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.602] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.603] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.603] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.603] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.604] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.604] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.604] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.605] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.605] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.605] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.606] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.607] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.607] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.607] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.608] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.608] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.608] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.608] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.609] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.609] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.609] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.611] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.611] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.612] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.612] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.612] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.612] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.613] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.613] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.613] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.613] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.614] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.614] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.614] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.617] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.617] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.617] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.618] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.618] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.622] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.622] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.623] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.623] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.623] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.624] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.624] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.624] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.625] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.625] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.626] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.626] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.626] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.627] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.627] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.628] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.629] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.629] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.629] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.630] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.630] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.631] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.632] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.633] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.633] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.633] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.633] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.634] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.634] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.634] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.634] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.635] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.635] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.635] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.635] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.635] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.636] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.636] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.636] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.637] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.637] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.637] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.637] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.638] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.638] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.639] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.639] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:06.640] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:06.640] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:07.115] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Dec2024 19:49:08.407] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.408] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.409] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.409] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.410] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.410] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.410] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.411] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.411] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.412] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.412] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.413] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.413] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.413] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.414] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.414] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.416] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.416] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.417] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.417] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.417] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.418] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.418] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.418] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.419] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.419] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.420] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.420] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.420] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.421] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.421] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.433] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.433] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.434] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.434] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.434] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.435] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.435] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.436] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.436] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.437] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.438] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.438] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.441] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.442] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.443] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.443] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.449] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.450] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.450] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.451] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.451] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.452] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.452] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.453] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.453] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.454] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.454] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.455] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.456] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.457] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.458] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.459] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.460] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.461] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.463] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.464] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.465] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.466] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.467] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.469] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.469] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.471] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.472] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.473] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.474] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.475] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.476] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.477] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.479] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.480] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.482] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.483] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.484] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.486] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.486] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.486] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.487] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.487] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.488] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.491] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.491] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.492] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.492] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.492] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.492] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.493] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.494] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.494] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.494] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.494] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.494] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.497] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.498] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.498] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.498] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.498] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.503] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.503] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.503] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.503] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.503] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.504] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.505] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.506] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.507] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.508] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.508] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.508] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.508] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.662] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.662] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.662] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.662] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.663] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.664] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.665] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.666] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.667] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.667] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.667] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.667] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.667] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.668] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.668] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.668] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.668] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.669] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.670] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.671] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.672] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.672] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.672] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.672] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.673] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.673] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.673] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.673] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.674] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.675] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.676] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.676] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.676] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.676] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.676] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.677] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.677] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.678] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.678] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.678] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.678] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.678] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.679] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.680] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.681] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.682] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.682] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.682] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.682] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.682] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.683] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.683] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.683] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.683] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.683] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.684] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.685] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[27Dec2024 19:49:08.686] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[27Dec2024 19:49:08.900] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23301!/assets/.mcassetsroot' uses unexpected schema
+[27Dec2024 19:49:08.900] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraftSecurity2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23301!/data/.mcassetsroot' uses unexpected schema
+[27Dec2024 19:49:13.180] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[27Dec2024 19:49:13.344] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[27Dec2024 19:49:13.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[27Dec2024 19:49:13.777] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.5.2 MC 1.20.1.jar)
+[27Dec2024 19:49:13.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[27Dec2024 19:49:13.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[27Dec2024 19:49:13.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[27Dec2024 19:49:18.713] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:arrow_recipe from createtaczauto:recipes/arrow_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:500) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:18.721] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:asurine_recipe from create_renewability:recipes/asurine_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:517) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.039] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:fusion_cell_recipe from createtaczauto:recipes/fusion_cell_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:500) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.075] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.120] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:nails_recipe from createtaczauto:recipes/nails_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 18 column 6 path $.result
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 18 column 6 path $.result
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:500) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.139] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:ochrum_recipe from create_renewability:recipes/ochrum_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:517) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.177] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:recipe_338_lapua_recipe from createtaczauto:recipes/recipe_338_lapua_recipe.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 22 column 6 path $.ingredients[6]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 22 column 6 path $.ingredients[6]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:485) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	... 13 more
+[27Dec2024 19:49:19.846] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[27Dec2024 19:49:20.327] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
+[27Dec2024 19:49:22.636] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[27Dec2024 19:49:22.686] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:22.750] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[27Dec2024 19:49:22.832] [main/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (create_renewability:stone_crushing_recipe) has more item outputs (8) than supported (7).
+[27Dec2024 19:49:22.852] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[27Dec2024 19:49:22.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[27Dec2024 19:49:22.869] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:22.904] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:22.916] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:22.924] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[27Dec2024 19:49:22.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[27Dec2024 19:49:22.958] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createtaczeroauto:ammo_12g_recipe: com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casing'
+[27Dec2024 19:49:22.969] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:22.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[27Dec2024 19:49:22.971] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:23.008] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[27Dec2024 19:49:23.061] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:23.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[27Dec2024 19:49:23.096] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:23.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[27Dec2024 19:49:23.105] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:23.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[27Dec2024 19:49:23.136] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[27Dec2024 19:49:23.137] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2024 19:49:23.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[27Dec2024 19:49:23.157] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 49 recipes
+[27Dec2024 19:49:23.414] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5187 advancements
+[27Dec2024 19:49:23.426] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[27Dec2024 19:49:23.584] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[27Dec2024 19:49:23.597] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[27Dec2024 19:49:23.607] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[27Dec2024 19:49:23.663] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Dec2024 19:49:23.674] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[27Dec2024 19:49:23.674] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Dec2024 19:49:23.676] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[27Dec2024 19:49:23.676] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[27Dec2024 19:49:23.702] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[27Dec2024 19:49:23.797] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
+[27Dec2024 19:49:23.798] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 0 ms
+[27Dec2024 19:49:24.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Dec2024 19:49:24.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Dec2024 19:49:24.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Dec2024 19:49:24.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Dec2024 19:49:24.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Dec2024 19:49:24.536] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Dec2024 19:49:24.626] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Dec2024 19:49:24.627] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Dec2024 19:49:24.627] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Dec2024 19:49:24.629] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Dec2024 19:49:25.183] [Server thread/INFO] [Framework/]: Loading server configs...
+[27Dec2024 19:49:26.071] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[27Dec2024 19:49:26.072] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[27Dec2024 19:49:26.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Dec2024 19:49:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Dec2024 19:49:27.145] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin from mod canary, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[27Dec2024 19:49:30.901] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.903] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.903] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.904] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.905] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.906] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.907] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:30.909] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:31.132] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 19:49:32.345] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5214 ms
+[27Dec2024 19:49:32.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.677s)! For help, type "help"
+[27Dec2024 19:49:32.526] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Dec2024 19:49:32.532] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[27Dec2024 19:49:32.534] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[27Dec2024 19:49:32.535] [Server thread/WARN] [ModernFix/]: Dedicated server took 87.687 seconds to load
+[27Dec2024 19:49:48.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
