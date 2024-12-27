@@ -2157,3 +2157,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Dec2024 23:14:15.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.243.37.129:50365] logged in with entity id 131040 at (2788.9404859191172, 65.0, 2902.718504297519)
 [27Dec2024 23:14:15.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [27Dec2024 23:14:15.292] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[27Dec2024 23:17:34.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:54865] logged in with entity id 132841 at (317.753659719867, 71.0, -6.387329469610478)
+[27Dec2024 23:17:34.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[27Dec2024 23:17:34.666] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[27Dec2024 23:24:35.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[27Dec2024 23:24:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
