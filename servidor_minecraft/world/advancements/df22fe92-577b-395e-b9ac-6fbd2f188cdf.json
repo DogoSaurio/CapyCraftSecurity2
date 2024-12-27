@@ -8653,6 +8653,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-27 21:16:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 20:59:16 +0000"
