@@ -10392,30 +10392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-27 02:21:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_boots": {
-    "criteria": {
-      "has_nether_wart": "2024-12-27 02:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-27 02:21:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_helmet": {
-    "criteria": {
-      "has_nether_wart": "2024-12-27 02:07:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-27 02:07:32 +0000"
@@ -10434,33 +10410,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-12-27 02:07:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-27 02:07:32 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_leggings": {
-    "criteria": {
-      "has_nether_wart": "2024-12-27 02:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-27 02:09:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_chestplate": {
-    "criteria": {
-      "has_nether_wart": "2024-12-27 02:07:34 +0000"
     },
     "done": true
   },
@@ -10473,18 +10425,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-27 02:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-27 02:07:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-27 02:21:34 +0000"
     },
     "done": true
   },
@@ -10506,15 +10446,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 02:07:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_wart": "2024-12-27 02:07:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_nether_bricks": "2024-12-27 02:07:32 +0000"
+      "has_rib_armor_trim_smithing_template": "2024-12-27 02:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 02:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-27 02:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-27 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-27 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-27 02:21:34 +0000"
     },
     "done": true
   },
