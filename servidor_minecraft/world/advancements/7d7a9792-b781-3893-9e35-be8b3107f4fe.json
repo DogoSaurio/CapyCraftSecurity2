@@ -1249,6 +1249,7 @@
       "cold_desert": "2024-12-21 22:05:06 +0000",
       "old_growth_woodland": "2024-12-22 21:44:14 +0000",
       "maple_woods": "2024-12-27 00:40:37 +0000",
+      "withered_abyss": "2024-12-27 21:29:53 +0000",
       "field": "2024-12-22 00:17:09 +0000",
       "orchard": "2024-12-22 21:41:24 +0000",
       "overgrown_greens": "2024-12-22 21:43:18 +0000",
@@ -6370,7 +6371,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-23 02:55:16 +0000"
+      "minecraft:crimson_forest": "2024-12-23 02:55:16 +0000",
+      "minecraft:nether_wastes": "2024-12-27 21:29:55 +0000"
     },
     "done": false
   },
@@ -10767,6 +10769,24 @@
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-27 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-27 21:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-27 21:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-27 21:22:15 +0000"
     },
     "done": true
   },

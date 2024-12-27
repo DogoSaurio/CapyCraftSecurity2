@@ -9025,6 +9025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-27 21:31:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/lime_toilet": {
     "criteria": {
       "has_dye": "2024-12-27 21:02:36 +0000"
@@ -9136,6 +9142,12 @@
   "refurbished_furniture:recipes/decorations/lime_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 21:02:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2024-12-27 21:26:10 +0000"
     },
     "done": true
   },
@@ -9349,6 +9361,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-27 21:23:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2024-12-27 20:59:56 +0000"
@@ -9388,6 +9406,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-27 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-27 21:24:40 +0000"
     },
     "done": true
   },
@@ -9490,6 +9514,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-27 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-27 21:23:10 +0000"
     },
     "done": true
   },

@@ -3168,6 +3168,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2024-12-27 21:28:04 +0000",
       "minecraft:zombie": "2024-12-27 20:57:54 +0000"
     },
     "done": false
@@ -3499,6 +3500,12 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 20:55:37 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-27 21:25:04 +0000"
     },
     "done": true
   },
@@ -3867,6 +3874,12 @@
       "has_bone": "2024-12-27 20:57:58 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-27 21:24:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
