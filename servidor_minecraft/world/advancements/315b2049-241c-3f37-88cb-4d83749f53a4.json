@@ -3184,6 +3184,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-27 21:51:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2024-12-27 21:10:50 +0000"
@@ -3253,6 +3259,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 21:32:07 +0000",
+      "minecraft:spider": "2024-12-27 21:41:13 +0000",
       "minecraft:creeper": "2024-12-27 21:28:04 +0000",
       "minecraft:zombie": "2024-12-27 20:57:54 +0000"
     },
@@ -3483,6 +3490,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-27 21:07:39 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-27 21:38:18 +0000"
     },
     "done": true
   },
@@ -4113,6 +4126,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-27 21:35:59 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-27 21:38:18 +0000"
     },
     "done": true
   },
@@ -5181,6 +5200,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-27 21:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-27 21:51:37 +0000"
     },
     "done": true
   },
