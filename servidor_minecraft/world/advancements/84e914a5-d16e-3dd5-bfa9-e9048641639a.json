@@ -12143,5 +12143,17 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2024-12-27 21:00:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-27 21:00:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

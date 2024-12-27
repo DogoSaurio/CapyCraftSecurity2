@@ -10734,18 +10734,6 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/highland_armor_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2024-12-27 02:48:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/reinforced_mail_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2024-12-27 02:48:20 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-27 01:32:39 +0000"
@@ -10755,6 +10743,18 @@
   "create_enchantment_industry:gone_with_the_foil": {
     "criteria": {
       "builtin": "2024-12-27 02:48:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-27 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-27 02:48:20 +0000"
     },
     "done": true
   },
