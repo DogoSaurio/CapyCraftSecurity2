@@ -2162,3 +2162,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Dec2024 23:17:34.666] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
 [27Dec2024 23:24:35.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
 [27Dec2024 23:24:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[27Dec2024 23:28:25.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=288, y=40, z=-109} BlockPos{x=286, y=41, z=-108}
+[27Dec2024 23:29:08.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Straddle My Ol' Saddle]
+[27Dec2024 23:32:45.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Wither Skeleton
+[27Dec2024 23:33:17.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[27Dec2024 23:33:17.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[27Dec2024 23:34:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Crimson Mosquito
+[27Dec2024 23:34:25.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.243.37.129:55973] logged in with entity id 144811 at (2655.308868543419, 80.7531999805212, 2796.699999988079)
+[27Dec2024 23:34:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[27Dec2024 23:34:25.554] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[27Dec2024 23:34:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Crimson Mosquito
+[27Dec2024 23:34:55.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa tried to swim in lava to escape Crimson Mosquito
