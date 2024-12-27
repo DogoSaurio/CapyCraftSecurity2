@@ -2173,3 +2173,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Dec2024 23:34:25.554] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [27Dec2024 23:34:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Crimson Mosquito
 [27Dec2024 23:34:55.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa tried to swim in lava to escape Crimson Mosquito
+[27Dec2024 23:36:53.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Dec2024 23:37:54.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:58429] logged in with entity id 147974 at (317.753659719867, 71.0, -6.387329469610478)
+[27Dec2024 23:37:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[27Dec2024 23:37:54.584] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[27Dec2024 23:37:59.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[27Dec2024 23:39:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Wither Skeleton
+[27Dec2024 23:40:15.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[27Dec2024 23:40:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
