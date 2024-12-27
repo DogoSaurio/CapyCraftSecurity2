@@ -320,6 +320,7 @@
       "minecraft:snowy_plains": "2024-12-23 01:29:38 +0000",
       "minecraft:stony_shore": "2024-12-27 01:50:12 +0000",
       "minecraft:snowy_taiga": "2024-12-22 22:58:57 +0000",
+      "minecraft:swamp": "2024-12-27 20:29:12 +0000",
       "minecraft:cold_ocean": "2024-12-22 23:31:00 +0000",
       "minecraft:forest": "2024-12-22 22:57:00 +0000",
       "minecraft:deep_cold_ocean": "2024-12-27 01:59:52 +0000",
@@ -340,6 +341,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-27 20:28:43 +0000",
       "cold_desert": "2024-12-22 23:36:34 +0000",
       "bog": "2024-12-27 02:54:03 +0000",
       "coniferous_forest": "2024-12-22 22:59:00 +0000",
@@ -8196,9 +8198,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-27 20:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2024-12-27 20:35:26 +0000"
     },
     "done": true
   },
@@ -8217,6 +8231,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-27 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-27 20:33:02 +0000"
     },
     "done": true
   },
@@ -8286,6 +8306,18 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-27 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-27 20:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2024-12-27 20:26:19 +0000"
@@ -8301,6 +8333,18 @@
   "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-27 20:37:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 20:35:25 +0000"
     },
     "done": true
   },
@@ -8322,6 +8366,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-27 20:37:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_dye": "2024-12-27 20:26:23 +0000"
@@ -8337,6 +8387,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
     "criteria": {
       "has_light_blue_dye": "2024-12-27 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-27 20:37:57 +0000"
     },
     "done": true
   },
@@ -8376,6 +8432,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-27 20:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 20:26:23 +0000"
@@ -8385,6 +8447,12 @@
   "refurbished_furniture:recipes/decorations/light_blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-27 20:37:57 +0000"
     },
     "done": true
   },
