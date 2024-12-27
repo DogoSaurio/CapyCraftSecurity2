@@ -2938,6 +2938,7 @@
       "minecraft:magma_cube": "2024-12-26 19:36:15 +0000",
       "minecraft:spider": "2024-12-23 00:06:05 +0000",
       "minecraft:creeper": "2024-12-23 04:41:52 +0000",
+      "minecraft:phantom": "2024-12-27 22:13:27 +0000",
       "minecraft:zombified_piglin": "2024-12-27 02:11:22 +0000",
       "minecraft:witch": "2024-12-23 00:04:41 +0000",
       "minecraft:wither_skeleton": "2024-12-23 03:09:06 +0000",
@@ -10567,6 +10568,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-27 22:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-27 22:13:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-27 20:39:52 +0000"
@@ -10606,6 +10619,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-27 20:39:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-27 22:13:27 +0000"
     },
     "done": true
   },
