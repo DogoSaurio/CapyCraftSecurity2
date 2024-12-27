@@ -2181,3 +2181,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Dec2024 23:39:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Wither Skeleton
 [27Dec2024 23:40:15.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
 [27Dec2024 23:40:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[27Dec2024 23:51:36.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[27Dec2024 23:51:36.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[27Dec2024 23:52:52.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.243.37.129:50519] logged in with entity id 155652 at (2796.297037449173, 64.0, 2902.2897278087203)
+[27Dec2024 23:52:52.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[27Dec2024 23:52:52.492] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[27Dec2024 23:54:12.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuro[/127.1.140.7:41757] logged in with entity id 156363 at (331.68882927487726, 63.0, -44.304457554998294)
+[27Dec2024 23:54:12.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro joined the game
+[27Dec2024 23:54:12.775] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
+[27Dec2024 23:56:57.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[27Dec2024 23:56:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[27Dec2024 23:56:57.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -2.40700555795911,0.7508129212553172,-9.875531806605068
+[27Dec2024 23:57:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Defunct Machinery]
