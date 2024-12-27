@@ -12137,6 +12137,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/titans_shroud_chestplate": {
     "criteria": {
       "has_dark_armor_chestplate": "2024-12-27 21:14:12 +0000"
@@ -12167,6 +12185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/titans_shroud_helmet": {
     "criteria": {
       "has_dark_armor_helmet": "2024-12-27 21:14:11 +0000"
@@ -12191,9 +12215,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_hoglin": {
+    "criteria": {
+      "has_raw_stuffed_hoglin": "2024-12-27 22:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/titans_shroud_leggings": {
     "criteria": {
       "has_dark_armor_leggings": "2024-12-27 21:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-27 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 22:16:28 +0000"
     },
     "done": true
   },
