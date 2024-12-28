@@ -11158,6 +11158,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 02:57:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2024-12-28 02:12:41 +0000"
@@ -11188,6 +11194,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 02:57:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
@@ -11209,6 +11221,12 @@
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-28 02:59:18 +0000"
     },
     "done": true
   },
@@ -11236,6 +11254,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 02:57:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
@@ -11245,6 +11269,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-12-28 02:59:03 +0000"
     },
     "done": true
   },
@@ -11281,6 +11311,18 @@
   "mcda:recipes/unique_armors/titans_shroud_leggings": {
     "criteria": {
       "has_dark_armor_leggings": "2024-12-28 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-28 02:57:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 02:57:36 +0000"
     },
     "done": true
   },
