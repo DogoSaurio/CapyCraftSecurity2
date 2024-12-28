@@ -11182,6 +11182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-28 03:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-12-28 02:43:26 +0000"
@@ -11311,6 +11317,12 @@
   "mcda:recipes/unique_armors/titans_shroud_leggings": {
     "criteria": {
       "has_dark_armor_leggings": "2024-12-28 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-28 03:13:30 +0000"
     },
     "done": true
   },
