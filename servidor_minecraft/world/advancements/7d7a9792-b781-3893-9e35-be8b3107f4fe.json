@@ -1290,6 +1290,7 @@
       "porkchop": "2024-12-21 21:55:58 +0000",
       "apple": "2024-12-23 01:55:07 +0000",
       "spider_eye": "2024-12-23 04:29:08 +0000",
+      "potato": "2024-12-28 23:42:41 +0000",
       "cooked_cod": "2024-12-22 07:17:25 +0000",
       "rabbit": "2024-12-23 04:02:40 +0000",
       "pumpkin_pie": "2024-12-21 21:41:08 +0000",
@@ -11395,6 +11396,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_snow_block": "2024-12-28 23:41:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2024-12-28 22:52:48 +0000"
@@ -11419,6 +11426,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_snow_block": "2024-12-28 23:41:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_button": {
     "criteria": {
       "has_planks": "2024-12-28 22:52:48 +0000"
@@ -11434,6 +11447,18 @@
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_snow_block": "2024-12-28 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_snow_block": "2024-12-28 23:41:03 +0000"
     },
     "done": true
   },
