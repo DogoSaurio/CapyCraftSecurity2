@@ -1294,3 +1294,159 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 04:06:51.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 1.3810025569860045
 [28Dec2024 04:08:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [28Dec2024 04:09:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to Luzbel1t0]
+[28Dec2024 04:09:55.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[28Dec2024 04:10:12.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[28Dec2024 04:10:29.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -0.0904867947101593,-26.79966429472637,-0.039059117436409
+[28Dec2024 04:11:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:12:22.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was blown up by xDogSaur
+[28Dec2024 04:12:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 04:12:55.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> 2792 2898
+[28Dec2024 04:13:36.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 13.14727691981659,0.6128138510760834,12.893192597539752
+[28Dec2024 04:13:36.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[28Dec2024 04:13:41.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.99919649363062,-0.3456419387454588,17.15281168921058
+[28Dec2024 04:13:47.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 5.768458736891489,-0.01565245257042136,17.536745157578537
+[28Dec2024 04:13:54.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 12.685981959788364,-1.1118022694053877,13.378623460988138
+[28Dec2024 04:14:06.694] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:07.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16551ms or 331 ticks behind
+[28Dec2024 04:14:10.436] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:11.511] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:15.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.445325885077295,0.623018239708685,17.40771574828443
+[28Dec2024 04:14:18.535] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:18.536] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:19.504] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[28Dec2024 04:14:19.644] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[28Dec2024 04:14:22.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 8.901443963439647,6.414075788180625,13.891967875169598
+[28Dec2024 04:14:29.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=949, y=8, z=1023} but found not block entity block Block{minecraft:air} at location
+[28Dec2024 04:14:29.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=949, y=8, z=1023}
+[28Dec2024 04:14:30.884] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[28Dec2024 04:14:38.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -7.301022203140633,-0.2987031463477763,6.941937607997488
+[28Dec2024 04:14:40.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[28Dec2024 04:14:43.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20958ms or 419 ticks behind
+[28Dec2024 04:14:45.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 2.9369306276543057,0.0,9.799498286594826
+[28Dec2024 04:14:54.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.236644254178259,0.3015347236627832,7.9407030540460255
+[28Dec2024 04:15:00.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 3.264907537697354,0.373904036466719,9.487017838435577
+[28Dec2024 04:15:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[28Dec2024 04:15:09.140] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_spruce
+[28Dec2024 04:15:16.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17987ms or 359 ticks behind
+[28Dec2024 04:15:20.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 1.5262257738882,0.3800236743955381,10.012193431602327
+[28Dec2024 04:15:47.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16079ms or 321 ticks behind
+[28Dec2024 04:16:00.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 4.351087655092897,0.2277792520400368,9.134621319724374
+[28Dec2024 04:16:07.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.919826637235701,-0.42355929454303975,7.6995641641044585
+[28Dec2024 04:16:17.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14367ms or 287 ticks behind
+[28Dec2024 04:16:39.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:39.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:39.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:39.881] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8533ms or 170 ticks behind
+[28Dec2024 04:16:40.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:40.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:41.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:42.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:43.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:44.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:44.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:44.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:44.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:45.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:46.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:46.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:46.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:46.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:47.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:47.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:47.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:47.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:47.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:48.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:48.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:48.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:48.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:49.992] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:50.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:50.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:50.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was doomed to fall by Nucaraga
+[28Dec2024 04:16:50.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:50.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:50.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:51.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:51.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:51.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:51.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:51.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:52.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:52.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:52.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:54.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:54.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:54.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:55.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:16:55.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 04:17:14.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 8.966839783710839,-0.003016261509046103,4.97692849349778
+[28Dec2024 04:17:14.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18842ms or 376 ticks behind
+[28Dec2024 04:17:21.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 4.082116535993009,0.3800236743955381,9.174422122894612
+[28Dec2024 04:17:30.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.108773328821599,0.0,-1.5267148229465874
+[28Dec2024 04:17:47.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17625ms or 352 ticks behind
+[28Dec2024 04:17:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> asd
+[28Dec2024 04:18:14.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12366ms or 247 ticks behind
+[28Dec2024 04:18:16.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 8.51068698874792,10.1630318599398,11.326797975327736
+[28Dec2024 04:18:22.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 7.037490499450087,-0.29468023825810974,16.990005342132463
+[28Dec2024 04:18:27.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 12.457724549793284,-4.684259428879727,12.120647034118974
+[28Dec2024 04:18:32.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -6.363798493577519,-6.270930588052522,4.970664142305083
+[28Dec2024 04:18:44.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -7.562558269502006,3.6819255396057287,16.258345519102704
+[28Dec2024 04:18:49.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.46431953393426,-2.8861659159197472,4.5889114425631305
+[28Dec2024 04:18:56.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26955ms or 539 ticks behind
+[28Dec2024 04:19:13.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 11.160794001885279,-2.069147610660522,13.616165384344185
+[28Dec2024 04:19:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:19:25.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.47214135036802,4.632063782962462,6.2725225290132585
+[28Dec2024 04:19:28.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16914ms or 338 ticks behind
+[28Dec2024 04:19:52.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9701ms or 194 ticks behind
+[28Dec2024 04:20:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported aw to xDogSaur]
+[28Dec2024 04:20:19.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.124348416527482,-3.9215999984741217,-1.9775418452227314
+[28Dec2024 04:20:19.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11481ms or 229 ticks behind
+[28Dec2024 04:20:39.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
+[28Dec2024 04:21:19.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Tendon Whip] to xDogSaur]
+[28Dec2024 04:22:24.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was blown up by xDogSaur
+[28Dec2024 04:23:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 04:24:15.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was doomed to fall by Archevoker
+[28Dec2024 04:24:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:gui.xaero-deathpoint:D:2913:92:2816:0:false:0:Internal-overworld-waypoints
+[28Dec2024 04:26:11.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to 2913.500000, 92.000000, 2816.500000]
+[28Dec2024 04:26:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was caught by Archevoker's fangs
+[28Dec2024 04:26:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to 2913.500000, 92.000000, 2816.500000]
+[28Dec2024 04:26:34.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was eviscerated by Archevoker's vexes
+[28Dec2024 04:26:45.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to 2913.500000, 92.000000, 2816.500000]
