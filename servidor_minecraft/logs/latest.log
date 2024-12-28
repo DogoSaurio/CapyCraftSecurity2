@@ -1067,3 +1067,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:37:43.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
 [28Dec2024 22:37:54.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
 [28Dec2024 22:37:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[28Dec2024 22:42:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blown up by xDogSaur
+[28Dec2024 22:42:54.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[28Dec2024 22:42:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[28Dec2024 22:42:59.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.61.138.200:55245] logged in with entity id 15715 at (331.09230615062324, 64.15310793487473, -31.2291150658885)
+[28Dec2024 22:42:59.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[28Dec2024 22:42:59.954] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[28Dec2024 22:43:09.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:37083] logged in with entity id 15737 at (2647.699999988079, 63.0, 2893.6229652807488)
+[28Dec2024 22:43:09.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[28Dec2024 22:43:09.408] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[28Dec2024 22:43:14.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[28Dec2024 22:44:12.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 9.871414479092891,-0.16779664663324922,-2.4928320959425037
+[28Dec2024 22:50:59.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=62, z=-4} BlockPos{x=300, y=62, z=-4}
