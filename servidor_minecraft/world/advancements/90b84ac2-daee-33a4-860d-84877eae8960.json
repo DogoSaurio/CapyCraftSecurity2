@@ -8943,18 +8943,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2024-12-28 04:04:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-28 04:04:33 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2024-12-28 03:50:16 +0000"
@@ -8976,6 +8964,18 @@
   "mcda:recipes/base_armors/snow_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2024-12-28 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-28 04:04:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:04:33 +0000"
     },
     "done": true
   },
