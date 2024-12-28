@@ -325,6 +325,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-22 06:53:12 +0000",
       "minecraft:windswept_forest": "2024-12-23 15:56:40 +0000",
       "minecraft:snowy_beach": "2024-12-22 06:42:41 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-28 04:43:02 +0000",
       "minecraft:plains": "2024-12-21 21:21:33 +0000"
     },
     "done": false
@@ -12454,9 +12455,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 04:43:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2024-12-28 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 04:43:18 +0000"
     },
     "done": true
   },
@@ -12472,6 +12485,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 04:43:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2024-12-28 03:53:30 +0000"
@@ -12481,6 +12500,12 @@
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2024-12-28 02:36:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2024-12-28 04:45:14 +0000"
     },
     "done": true
   },
@@ -12514,6 +12539,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 04:43:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2024-12-28 04:31:21 +0000"
@@ -12529,6 +12560,12 @@
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2024-12-28 02:36:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-28 04:43:18 +0000"
     },
     "done": true
   },

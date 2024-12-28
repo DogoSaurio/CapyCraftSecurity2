@@ -1473,3 +1473,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 04:36:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
 [28Dec2024 04:37:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [28Dec2024 04:39:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:41:09.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 04:41:29.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4684ms or 93 ticks behind
+[28Dec2024 04:41:45.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 3.2523394953250317,-0.41999998688697815,-9.823494448874499
+[28Dec2024 04:41:47.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[28Dec2024 04:42:09.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7204ms or 144 ticks behind
+[28Dec2024 04:42:29.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[28Dec2024 04:42:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by xDogSaur
+[28Dec2024 04:42:46.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[28Dec2024 04:42:58.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
+[28Dec2024 04:43:03.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[28Dec2024 04:43:20.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[28Dec2024 04:43:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[28Dec2024 04:43:44.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[28Dec2024 04:43:58.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 04:44:06.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7260ms or 145 ticks behind
+[28Dec2024 04:44:08.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:44:27.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.6837299247226838,0.0,10.298923602430477
+[28Dec2024 04:44:27.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.6658594762270695,0.0,10.697292989650578
+[28Dec2024 04:44:27.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.6435088467055721,0.0,11.095331402108968
+[28Dec2024 04:44:27.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.616026448323737,0.0,11.492881731418038
+[28Dec2024 04:44:27.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.5829403153143176,0.0,11.889795356693867
+[28Dec2024 04:44:27.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.5439316658025746,0.0,12.285937863494382
+[28Dec2024 04:44:27.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.4987999371605838,0.0,12.681189750313933
+[28Dec2024 04:44:27.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -0.4474537478054117,0.0,13.075451069118117
+[28Dec2024 04:44:33.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12529ms or 250 ticks behind
+[28Dec2024 04:44:55.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 8.892246578610866,0.0,-5.379337910044342
+[28Dec2024 04:44:55.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 9.233596915023554,0.0,-5.587157051668328
+[28Dec2024 04:45:00.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11260ms or 225 ticks behind
+[28Dec2024 04:45:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Cockroach]
+[28Dec2024 04:45:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [Mariachi!]
+[28Dec2024 04:45:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Skeleton
+[28Dec2024 04:45:34.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[28Dec2024 04:46:36.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[28Dec2024 04:46:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -10.299940620408506,0.0,0.7032019184880482
+[28Dec2024 04:46:50.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! -10.698180469722047,0.0,0.6832140065694148
+[28Dec2024 04:46:57.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5128ms or 102 ticks behind
+[28Dec2024 04:47:11.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -1.3752782928258966,-0.373904036466719,-10.114712669394066
+[28Dec2024 04:47:23.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11150ms or 223 ticks behind
+[28Dec2024 04:47:25.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:47:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> si
+[28Dec2024 04:47:40.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[28Dec2024 04:47:42.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[28Dec2024 04:47:43.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[28Dec2024 04:47:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[28Dec2024 04:47:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> feliz skibidi dad
+[28Dec2024 04:47:51.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:38733] logged in with entity id 134887 at (350.4046351294593, 63.0, -11.873452296808308)
+[28Dec2024 04:47:51.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[28Dec2024 04:47:52.109] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[28Dec2024 04:48:00.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Dec2024 04:48:22.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[28Dec2024 04:48:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 04:48:34.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Timed out
+[28Dec2024 04:48:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[28Dec2024 04:48:38.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:48:52.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.226.232.255:40701] logged in with entity id 135644 at (332.6780245561782, 63.0, -41.30242665716532)
+[28Dec2024 04:48:52.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[28Dec2024 04:48:53.019] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[28Dec2024 04:49:50.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 11.293157077043077,3.203264399331296,0.23461504659227472
+[28Dec2024 04:49:54.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Timed out
+[28Dec2024 04:49:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[28Dec2024 04:50:24.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 1.9383522131699351,3.878703159460798,-9.453482211915336
+[28Dec2024 04:50:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -20.25006700146116,-0.12129684053920187,1.0031150563668376
+[28Dec2024 04:50:32.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -1.7160485313564777,2.823240724935758,-11.400128714591915
+[28Dec2024 04:50:34.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -12.776003516612604,0.0,-2.0568831371578042
+[28Dec2024 04:50:53.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 9.210412896158857,3.203264399331296,2.949762568611362
+[28Dec2024 04:50:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by xDogSaur

@@ -10680,15 +10680,21 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-28 02:42:29 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2024-12-28 02:50:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "mcda:recipes/unique_armors/archers_helmet": {
     "criteria": {
-      "has_nautilus_core": "2024-12-28 03:52:43 +0000"
+      "has_leather_helmet": "2024-12-28 02:50:08 +0000"
     },
     "done": true
   },
@@ -10704,33 +10710,9 @@
     },
     "done": true
   },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2024-12-28 02:42:29 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/archers_helmet": {
-    "criteria": {
-      "has_leather_helmet": "2024-12-28 02:50:08 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-28 03:31:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-28 03:52:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2024-12-28 04:00:49 +0000"
     },
     "done": true
   },
@@ -10749,6 +10731,30 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-28 03:52:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-28 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-28 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-28 04:44:40 +0000"
     },
     "done": true
   },
