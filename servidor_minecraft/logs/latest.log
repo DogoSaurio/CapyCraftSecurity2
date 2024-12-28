@@ -1026,3 +1026,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:30:01.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.167.174.136:49715] logged in with entity id 8773 at (344.2990230582711, 64.6775871515274, -47.18057111036212)
 [28Dec2024 22:30:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [28Dec2024 22:30:01.436] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[28Dec2024 22:31:28.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Dec2024 22:31:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 22:31:47.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4002ms or 80 ticks behind
+[28Dec2024 22:31:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[28Dec2024 22:32:14.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Dec2024 22:32:56.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 22:33:11.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> farfa
+[28Dec2024 22:33:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> la granja de
+[28Dec2024 22:33:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> cosecha
+[28Dec2024 22:33:18.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> onda la granja granja
+[28Dec2024 22:33:20.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> la queres expandir
+[28Dec2024 22:33:21.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> ?
+[28Dec2024 22:33:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> la hacemos de
+[28Dec2024 22:33:28.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> tamo por hacer algo
+[28Dec2024 22:33:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> pisos
+[28Dec2024 22:33:29.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> tipo
+[28Dec2024 22:33:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a ta
+[28Dec2024 22:33:34.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> chupense un guevo
+[28Dec2024 22:33:38.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> tamos planeando todo
+[28Dec2024 22:33:45.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> explotar el castillo
+[28Dec2024 22:33:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> deah
+[28Dec2024 22:33:48.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> ahi si q no juego mas
+[28Dec2024 22:34:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 22:34:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> se llama
+[28Dec2024 22:34:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> tlaxcala
+[28Dec2024 22:35:24.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> farfa
+[28Dec2024 22:35:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> buba
+[28Dec2024 22:35:30.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> you ar the hanta?
+[28Dec2024 22:36:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> tranki ian
+[28Dec2024 22:36:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> tyo l omato
+[28Dec2024 22:36:38.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> farfa q m das si tu grranja se ahce de 5 pisos y automatica?
+[28Dec2024 22:36:43.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[28Dec2024 22:36:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> las gracias
+[28Dec2024 22:37:04.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> cheto
+[28Dec2024 22:37:06.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 22:37:07.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> ahora m voy a poenr a laburar
+[28Dec2024 22:37:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> dame un rato
+[28Dec2024 22:37:23.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Dec2024 22:37:43.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[28Dec2024 22:37:54.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[28Dec2024 22:37:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
