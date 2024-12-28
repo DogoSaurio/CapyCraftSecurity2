@@ -1450,3 +1450,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 04:26:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to 2913.500000, 92.000000, 2816.500000]
 [28Dec2024 04:26:34.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was eviscerated by Archevoker's vexes
 [28Dec2024 04:26:45.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to 2913.500000, 92.000000, 2816.500000]
+[28Dec2024 04:30:31.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[28Dec2024 04:31:00.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13720ms or 274 ticks behind
+[28Dec2024 04:31:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Mariachi?]
+[28Dec2024 04:33:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> le "voy a hacer una cocina a afarfa"
+[28Dec2024 04:34:04.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:34:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> no
+[28Dec2024 04:34:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:34:26.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> pregunta en otro momento
+[28Dec2024 04:34:28.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:34:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> operadora no disponible
+[28Dec2024 04:34:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:35:04.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[28Dec2024 04:35:18.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.697530279155217,0.0,-8.680839588941126
+[28Dec2024 04:35:18.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved too quickly! 5.937139180783106,0.0,-9.000683562204358
+[28Dec2024 04:35:23.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
+[28Dec2024 04:35:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:35:30.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 10.273771271375153,-0.08307781780646906,-0.3935859974321829
+[28Dec2024 04:35:41.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[28Dec2024 04:36:18.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 04:36:25.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[28Dec2024 04:36:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> le vas a hacer una cocina afarfa?
+[28Dec2024 04:37:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 04:39:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]

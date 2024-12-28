@@ -12514,6 +12514,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-28 04:31:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2024-12-28 03:55:00 +0000"
