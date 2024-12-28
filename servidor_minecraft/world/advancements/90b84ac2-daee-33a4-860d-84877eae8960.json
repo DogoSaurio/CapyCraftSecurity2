@@ -493,7 +493,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "fish_stew": "2024-12-23 01:35:36 +0000",
-      "pasta_with_mutton_chop": "2024-12-23 00:43:48 +0000"
+      "pasta_with_mutton_chop": "2024-12-23 00:43:48 +0000",
+      "fried_rice": "2024-12-28 23:23:01 +0000"
     },
     "done": false
   },
