@@ -17762,3 +17762,321 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 23:08:42.894] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [28Dec2024 23:08:42.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 23:08:42.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:12:37.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[28Dec2024 23:12:56.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=62, z=30} BlockPos{x=310, y=62, z=29}
+[28Dec2024 23:13:01.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8753ms or 175 ticks behind
+[28Dec2024 23:13:35.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Spray 'n Pray]
+[28Dec2024 23:13:53.593] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[28Dec2024 23:13:53.593] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[28Dec2024 23:13:53.594] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[28Dec2024 23:13:53.595] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[28Dec2024 23:13:53.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:13:53.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:13:59.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=62, z=25} BlockPos{x=308, y=62, z=26}
+[28Dec2024 23:15:00.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved wrongly!
+[28Dec2024 23:15:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> en las cords 1000000000 60 100000000000 hay un skibidi
+[28Dec2024 23:15:49.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -8.290673334023126,-0.5634262668533125,16.482558147927193
+[28Dec2024 23:15:49.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[28Dec2024 23:15:56.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -14.749329778089376,-1.539557451807596,-9.116045789832185
+[28Dec2024 23:16:02.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -11.822007039621127,3.55725971546174,-13.21454032555863
+[28Dec2024 23:16:09.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -16.230179622538003,1.7712707219750428,7.02026025624275
+[28Dec2024 23:16:15.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -13.396201533113242,-2.224063885446938,10.976155729240077
+[28Dec2024 23:16:16.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11574ms or 231 ticks behind
+[28Dec2024 23:16:21.592] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.593] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.595] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.599] [Worker-Main-11/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.599] [Worker-Main-11/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.606] [Worker-Main-11/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 23:16:21.783] [Worker-Main-11/DEBUG] [mixin/]: iceandfire.mixins.json:gen.WorldGenRegionMixin from mod iceandfire->@Inject::skipLog(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[28Dec2024 23:16:21.791] [Worker-Main-11/DEBUG] [mixin/]: canary.mixins.json:gen.chunk_region.WorldGenRegionMixin from mod canary->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[28Dec2024 23:16:21.791] [Worker-Main-11/DEBUG] [mixin/]: canary.mixins.json:gen.chunk_region.WorldGenRegionMixin from mod canary->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[28Dec2024 23:16:21.791] [Worker-Main-11/DEBUG] [mixin/]: canary.mixins.json:gen.chunk_region.WorldGenRegionMixin from mod canary->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[28Dec2024 23:16:21.792] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.794] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.795] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:21.796] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[28Dec2024 23:16:23.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[28Dec2024 23:16:23.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 23:16:23.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[28Dec2024 23:16:24.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 23:16:24.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Dec2024 23:16:24.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Dec2024 23:16:26.304] [Worker-Main-11/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from fabric-biome-api-v1.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[28Dec2024 23:16:26.308] [Worker-Main-11/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[28Dec2024 23:16:26.392] [Worker-Main-11/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[28Dec2024 23:16:26.396] [Worker-Main-11/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[28Dec2024 23:16:26.396] [Worker-Main-11/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[28Dec2024 23:16:26.396] [Worker-Main-11/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::createMultiNoiseSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[28Dec2024 23:16:26.409] [Worker-Main-11/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 23:16:26.418] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 23:16:26.419] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 23:16:26.420] [Worker-Main-11/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 23:16:26.448] [Worker-Main-11/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[28Dec2024 23:16:26.460] [Worker-Main-11/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[28Dec2024 23:16:26.460] [Worker-Main-11/DEBUG] [mixin/]: mixins.irons_spellbooks.json:BeardifierMixin from mod irons_spellbooks->@Inject::injectCustomTerrainAdaptation(Lnet/minecraft/world/level/ChunkPos;Lit/unimi/dsi/fastutil/objects/ObjectList;IILit/unimi/dsi/fastutil/objects/ObjectList;Lnet/minecraft/world/level/levelgen/structure/StructureStart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[28Dec2024 23:16:26.460] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[28Dec2024 23:16:26.460] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[28Dec2024 23:16:40.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> SI ESCRIBIS /KILL LUZBEL1T0 TE GANAS UN PREMIO!
+[28Dec2024 23:16:43.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[28Dec2024 23:16:47.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 23:16:49.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.265040782191932,0.4990033597325265,1.3201083554271804
+[28Dec2024 23:16:53.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22348ms or 446 ticks behind
+[28Dec2024 23:16:57.917] [Worker-Main-64/DEBUG] [mixin/]: Mixing StructurePoolBasedGenerator_StructurePoolGeneratorMixin from structure_pool.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[28Dec2024 23:16:57.921] [Worker-Main-64/DEBUG] [mixin/]: Renaming synthetic method lambda$getElementIndicesInRandomOrder_Wrapped$0(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to mdcdbdb5$structure_pool_api$lambda$getElementIndicesInRandomOrder_Wrapped$0$0 in structure_pool.mixins.json:StructurePoolBasedGenerator_StructurePoolGeneratorMixin from mod structure_pool_api
+[28Dec2024 23:16:58.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=62, z=21} BlockPos{x=307, y=62, z=8}
+[28Dec2024 23:16:59.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=62, z=8} BlockPos{x=307, y=62, z=7}
+[28Dec2024 23:16:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> ;-;
+[28Dec2024 23:17:00.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=62, z=7} BlockPos{x=306, y=62, z=10}
+[28Dec2024 23:17:00.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=62, z=7} BlockPos{x=306, y=62, z=11}
+[28Dec2024 23:17:10.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Dec2024 23:17:11.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=62, z=30} BlockPos{x=301, y=61, z=26}
+[28Dec2024 23:17:12.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=62, z=30} BlockPos{x=301, y=61, z=26}
+[28Dec2024 23:17:21.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12542ms or 250 ticks behind
+[28Dec2024 23:17:23.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 23:17:34.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[28Dec2024 23:17:34.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[28Dec2024 23:17:34.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[28Dec2024 23:17:34.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[28Dec2024 23:17:34.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[28Dec2024 23:17:34.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[28Dec2024 23:17:34.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[28Dec2024 23:17:34.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[28Dec2024 23:17:34.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[28Dec2024 23:17:34.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[28Dec2024 23:17:34.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[28Dec2024 23:17:37.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Dec2024 23:17:37.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Dec2024 23:17:41.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[28Dec2024 23:17:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> -654 423
+[28Dec2024 23:17:47.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11705ms or 234 ticks behind
+[28Dec2024 23:18:18.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15902ms or 318 ticks behind
+[28Dec2024 23:18:21.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -11.861106679516652,2.3009226531698346,14.64025896022315
+[28Dec2024 23:18:29.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -7.287766723636537,0.6501423632479799,16.6373653862139
+[28Dec2024 23:18:30.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wizards:village/snowy/wizard_tower_2
+[28Dec2024 23:18:30.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paladins:village/snowy/sanctuary
+[28Dec2024 23:18:34.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Dec2024 23:18:42.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[28Dec2024 23:18:44.517] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[28Dec2024 23:18:44.537] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[28Dec2024 23:18:44.539] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[28Dec2024 23:18:49.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 1.097567003832964,0.0,10.267959965307796
+[28Dec2024 23:18:54.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20771ms or 415 ticks behind
+[28Dec2024 23:18:57.333] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Dec2024 23:19:10.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[28Dec2024 23:19:10.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[28Dec2024 23:19:10.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[28Dec2024 23:19:10.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[28Dec2024 23:19:10.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[28Dec2024 23:19:10.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[28Dec2024 23:19:10.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[28Dec2024 23:19:10.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[28Dec2024 23:19:10.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[28Dec2024 23:19:10.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[28Dec2024 23:19:10.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[28Dec2024 23:19:10.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[28Dec2024 23:19:10.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[28Dec2024 23:19:10.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[28Dec2024 23:19:10.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[28Dec2024 23:19:10.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[28Dec2024 23:19:10.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[28Dec2024 23:19:10.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[28Dec2024 23:19:10.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[28Dec2024 23:19:10.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[28Dec2024 23:19:10.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[28Dec2024 23:19:10.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[28Dec2024 23:19:10.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[28Dec2024 23:19:10.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[28Dec2024 23:19:10.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[28Dec2024 23:19:10.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[28Dec2024 23:19:28.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18716ms or 374 ticks behind
+[28Dec2024 23:19:30.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 9.52732780406322,-0.1647732818260721,4.234041920771233
+[28Dec2024 23:19:42.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 23:19:50.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> xaero-waypoint:asd:A:-655:69:426:1:false:0:Internal-overworld-waypoints
+[28Dec2024 23:19:55.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12122ms or 242 ticks behind
+[28Dec2024 23:19:56.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 23:20:20.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10197ms or 203 ticks behind
+[28Dec2024 23:20:28.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=310, y=62, z=6}
+[28Dec2024 23:20:28.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=309, y=62, z=8}
+[28Dec2024 23:20:30.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=307, y=62, z=8}
+[28Dec2024 23:20:32.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[28Dec2024 23:20:33.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=306, y=62, z=10}
+[28Dec2024 23:20:34.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=305, y=62, z=10}
+[28Dec2024 23:20:35.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=305, y=62, z=12}
+[28Dec2024 23:20:36.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=304, y=62, z=11}
+[28Dec2024 23:20:37.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=302, y=62, z=12}
+[28Dec2024 23:20:39.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Dec2024 23:20:39.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Dec2024 23:20:39.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=302, y=62, z=10}
+[28Dec2024 23:20:41.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=60, z=6} BlockPos{x=301, y=62, z=10}
+[28Dec2024 23:20:41.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -5.81930309615521,0.0,-8.17584395921034
+[28Dec2024 23:20:46.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10721ms or 214 ticks behind
+[28Dec2024 23:20:48.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -8.540299489955032,0.07544406518948676,-5.28859756589398
+[28Dec2024 23:20:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[28Dec2024 23:21:11.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10221ms or 204 ticks behind
+[28Dec2024 23:21:32.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 3.788974959097459,-0.7012968536522237,-9.290116187928618
+[28Dec2024 23:21:40.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14150ms or 283 ticks behind
+[28Dec2024 23:21:56.234] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[28Dec2024 23:21:56.235] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[28Dec2024 23:21:56.235] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[28Dec2024 23:21:56.235] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[28Dec2024 23:21:56.235] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[28Dec2024 23:21:56.235] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[28Dec2024 23:21:56.236] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[28Dec2024 23:21:56.237] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[28Dec2024 23:21:56.237] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[28Dec2024 23:21:56.238] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[28Dec2024 23:21:56.238] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[28Dec2024 23:21:56.238] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[28Dec2024 23:21:56.239] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[28Dec2024 23:21:56.240] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[28Dec2024 23:21:56.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:21:56.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:21:56.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -5.801681043919814,-0.7953996215565695,8.364489687108744
+[28Dec2024 23:21:56.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -9.427337904865226,3.580000013113022,0.8135584129965423
+[28Dec2024 23:22:13.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> skibidi lauti
+[28Dec2024 23:22:15.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20002ms or 400 ticks behind
+[28Dec2024 23:22:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> que pasa skibidi papu sigma
+[28Dec2024 23:22:30.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=62, z=24} BlockPos{x=301, y=62, z=21}
+[28Dec2024 23:22:30.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=62, z=24} BlockPos{x=299, y=62, z=23}
+[28Dec2024 23:22:32.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -8.837151911039768,0.023088109101550458,5.167986523769912
+[28Dec2024 23:22:39.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> respondiste a skibidi lauti
+[28Dec2024 23:22:41.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10901ms or 218 ticks behind
+[28Dec2024 23:22:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ahora tu nombre es skibidi lauti
+[28Dec2024 23:22:58.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[28Dec2024 23:23:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> No tiene sentido
