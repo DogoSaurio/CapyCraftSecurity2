@@ -1561,3 +1561,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 05:07:30.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Ice Bucket Challenge]
 [28Dec2024 05:09:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Mariachi?]
 [28Dec2024 05:09:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Mariachi?]
+[28Dec2024 05:13:23.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/147068, l='ServerLevel[world]', x=350.92, y=62.90, z=-16.73] died, message: 'Fisherman was slain by Zombie'
+[28Dec2024 05:13:28.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[28Dec2024 05:13:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game

@@ -8991,6 +8991,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-28 05:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-28 05:07:30 +0000"
@@ -9003,6 +9009,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-28 05:09:45 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2024-12-28 05:07:30 +0000"
@@ -9012,6 +9024,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2024-12-28 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-28 05:10:43 +0000"
     },
     "done": true
   },

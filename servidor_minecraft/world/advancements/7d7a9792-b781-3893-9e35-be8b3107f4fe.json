@@ -11344,5 +11344,41 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/titans_shroud_chestplate": {
+    "criteria": {
+      "has_dark_armor_chestplate": "2024-12-28 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_dark_armor_helmet": "2024-12-28 05:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/titans_shroud_helmet": {
+    "criteria": {
+      "has_dark_armor_helmet": "2024-12-28 05:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_dark_armor_chestplate": "2024-12-28 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_dark_armor_boots": "2024-12-28 05:12:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/titans_shroud_boots": {
+    "criteria": {
+      "has_dark_armor_boots": "2024-12-28 05:12:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
