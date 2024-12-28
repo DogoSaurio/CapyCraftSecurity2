@@ -6039,6 +6039,18 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
@@ -6075,6 +6087,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_soul_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-28 00:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
@@ -6093,15 +6117,39 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-28 00:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 00:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-28 00:12:01 +0000"
     },
     "done": true
   },
@@ -6147,6 +6195,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-27 23:54:12 +0000"
@@ -6159,6 +6213,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_soul_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-28 00:00:54 +0000"
@@ -6168,6 +6228,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2024-12-28 00:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 00:14:50 +0000"
     },
     "done": true
   },

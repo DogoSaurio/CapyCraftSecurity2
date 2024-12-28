@@ -9,3 +9,28 @@
 [28Dec2024 00:05:10.349] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
 [28Dec2024 00:07:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Soulsand Valley Enderman
 [28Dec2024 00:07:08.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Dec2024 00:07:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Soulsand Valley Enderman
+[28Dec2024 00:08:00.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[28Dec2024 00:08:22.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6655ms or 133 ticks behind
+[28Dec2024 00:09:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Soulsand Valley Enderman
+[28Dec2024 00:10:22.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[28Dec2024 00:12:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Nightmare Fuel]
+[28Dec2024 00:13:03.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[28Dec2024 00:13:38.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.208.170.11:50243] logged in with entity id 169504 at (346.2237073622138, 63.0, -39.7435495061276)
+[28Dec2024 00:13:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[28Dec2024 00:13:38.567] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[28Dec2024 00:14:28.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[28Dec2024 00:14:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [A Terrible Fortress]
+[28Dec2024 00:15:41.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[28Dec2024 00:15:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> 280
+[28Dec2024 00:15:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> 288
+[28Dec2024 00:16:00.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
+[28Dec2024 00:16:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> 66
+[28Dec2024 00:16:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> -153
+[28Dec2024 00:16:27.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11998ms or 239 ticks behind
+[28Dec2024 00:16:58.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16029ms or 320 ticks behind
+[28Dec2024 00:17:17.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 00:17:17.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
+[28Dec2024 00:18:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 288.500000, 66.000000, -152.500000]
+[28Dec2024 00:18:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[28Dec2024 00:18:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
