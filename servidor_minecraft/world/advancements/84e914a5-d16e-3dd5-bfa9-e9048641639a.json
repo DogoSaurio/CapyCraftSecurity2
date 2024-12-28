@@ -12357,6 +12357,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 00:59:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2024-12-28 01:02:16 +0000"
@@ -12387,12 +12393,6 @@
     },
     "done": true
   },
-  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
-    "criteria": {
-      "has_nether_star": "2024-12-28 01:04:52 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2024-12-28 01:02:16 +0000"
@@ -12411,15 +12411,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
-      "has_item": "2024-12-28 00:59:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-28 01:05:52 +0000"
+      "has_nether_star": "2024-12-28 01:04:52 +0000"
     },
     "done": true
   },
@@ -12432,6 +12426,12 @@
   "aquaculture:recipes/aquaculture/nether_star_hook": {
     "criteria": {
       "has_items": "2024-12-28 01:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-28 01:05:52 +0000"
     },
     "done": true
   },
