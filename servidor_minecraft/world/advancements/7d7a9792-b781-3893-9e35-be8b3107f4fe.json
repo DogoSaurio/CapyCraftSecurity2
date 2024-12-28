@@ -3311,10 +3311,12 @@
       "minecraft:pillager": "2024-12-22 23:06:58 +0000",
       "minecraft:blaze": "2024-12-23 02:59:26 +0000",
       "minecraft:skeleton": "2024-12-21 21:55:49 +0000",
+      "minecraft:ghast": "2024-12-28 00:40:32 +0000",
       "minecraft:hoglin": "2024-12-26 19:24:09 +0000",
       "minecraft:vindicator": "2024-12-22 23:09:53 +0000",
       "minecraft:magma_cube": "2024-12-23 02:59:01 +0000",
       "minecraft:spider": "2024-12-21 22:41:01 +0000",
+      "minecraft:piglin_brute": "2024-12-28 00:42:15 +0000",
       "minecraft:creeper": "2024-12-23 04:59:01 +0000",
       "minecraft:phantom": "2024-12-25 22:46:08 +0000",
       "minecraft:zombified_piglin": "2024-12-26 19:53:03 +0000",
@@ -6374,7 +6376,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-23 02:55:16 +0000",
-      "minecraft:nether_wastes": "2024-12-27 21:29:55 +0000"
+      "minecraft:nether_wastes": "2024-12-27 21:29:55 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 00:28:29 +0000"
     },
     "done": false
   },
@@ -10984,9 +10987,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
     },
     "done": true
   },
@@ -10996,15 +11011,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-28 00:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
     },
     "done": true
   },
@@ -11044,9 +11089,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:43:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-28 00:41:36 +0000"
     },
     "done": true
   },

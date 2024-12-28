@@ -5528,6 +5528,9 @@
       "minecraft:pillager": "2024-12-23 14:59:47 +0000",
       "minecraft:skeleton": "2024-12-23 14:55:00 +0000",
       "minecraft:magma_cube": "2024-12-28 00:24:24 +0000",
+      "minecraft:piglin_brute": "2024-12-28 00:44:36 +0000",
+      "minecraft:wither_skeleton": "2024-12-28 00:31:04 +0000",
+      "minecraft:piglin": "2024-12-28 00:41:55 +0000",
       "minecraft:zombie": "2024-12-23 14:24:15 +0000"
     },
     "done": false
@@ -6000,6 +6003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:50 +0000"
@@ -6041,6 +6050,18 @@
   "mcda:recipes/unique_armors/highland_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-28 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
     },
     "done": true
   },
@@ -6128,6 +6149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
@@ -6143,6 +6170,12 @@
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:41:52 +0000"
     },
     "done": true
   },
@@ -6188,6 +6221,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-28 00:40:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:50 +0000"
@@ -6212,6 +6251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
@@ -6230,9 +6275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-28 00:38:17 +0000"
     },
     "done": true
   },
@@ -6260,6 +6317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:41:52 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-28 00:20:40 +0000"
@@ -6275,6 +6338,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
     },
     "done": true
   },
@@ -6332,6 +6401,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:50 +0000"
@@ -6374,6 +6449,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-27 23:54:12 +0000"
@@ -6401,6 +6482,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-28 00:21:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
     },
     "done": true
   },
@@ -6446,6 +6533,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2024-12-28 00:03:53 +0000"
@@ -6461,6 +6560,12 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 00:41:36 +0000"
     },
     "done": true
   },
@@ -6494,6 +6599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-28 00:19:04 +0000"
@@ -6518,9 +6629,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:29:19 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-28 00:41:29 +0000"
     },
     "done": true
   },

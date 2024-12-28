@@ -45,3 +45,17 @@
 [28Dec2024 00:27:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
 [28Dec2024 00:28:39.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [28Dec2024 00:28:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 00:30:49.414] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[28Dec2024 00:31:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 00:31:43.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[28Dec2024 00:31:43.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[28Dec2024 00:40:11.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[28Dec2024 00:40:27.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] reinicie  la pc
+[28Dec2024 00:40:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Straddle My Ol' Saddle]
+[28Dec2024 00:40:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q pro
+[28Dec2024 00:40:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] siguen en el reino del nether?
+[28Dec2024 00:41:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Those Were the Days]
+[28Dec2024 00:41:36.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Those Were the Days]
+[28Dec2024 00:41:44.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Dec2024 00:41:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY UNA BASTION=??????????<--[HERE]
+[28Dec2024 00:46:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [War Pigs]
