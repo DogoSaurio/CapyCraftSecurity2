@@ -1256,12 +1256,15 @@
       "overgrown_greens": "2024-12-22 21:43:18 +0000",
       "coniferous_forest": "2024-12-21 21:31:21 +0000",
       "forested_field": "2024-12-22 00:13:00 +0000",
+      "spider_nest": "2024-12-28 02:40:18 +0000",
       "dryland": "2024-12-22 22:05:46 +0000",
       "lush_desert": "2024-12-22 22:05:23 +0000",
       "redwood_forest": "2024-12-25 22:49:39 +0000",
+      "volcano": "2024-12-28 02:47:28 +0000",
       "fir_clearing": "2024-12-21 21:21:48 +0000",
       "pumpkin_patch": "2024-12-27 00:37:13 +0000",
       "prairie": "2024-12-27 00:20:33 +0000",
+      "grassland": "2024-12-28 02:38:53 +0000",
       "snowy_coniferous_forest": "2024-12-23 02:15:26 +0000",
       "gravel_beach": "2024-12-21 22:06:34 +0000",
       "glowing_grotto": "2024-12-25 21:20:06 +0000",
@@ -11149,6 +11152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-28 02:43:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2024-12-28 02:12:41 +0000"
@@ -11167,6 +11176,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-28 02:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-28 02:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
@@ -11179,6 +11200,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-28 02:33:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
@@ -11188,6 +11215,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-28 02:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-28 02:46:24 +0000"
     },
     "done": true
   },
@@ -11236,6 +11269,24 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-28 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/titans_shroud_leggings": {
+    "criteria": {
+      "has_dark_armor_leggings": "2024-12-28 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_dark_armor_leggings": "2024-12-28 02:33:53 +0000"
     },
     "done": true
   },

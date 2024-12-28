@@ -10676,5 +10676,23 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-28 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-28 02:50:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
