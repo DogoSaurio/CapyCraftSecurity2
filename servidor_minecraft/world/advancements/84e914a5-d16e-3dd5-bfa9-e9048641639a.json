@@ -12254,25 +12254,25 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_cluster": {
-    "criteria": {
-      "has_brimstone": "2024-12-28 00:21:12 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/unique_armors/highland_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-28 00:19:21 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
     "criteria": {
-      "has_brimstone": "2024-12-28 00:21:12 +0000"
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-28 00:19:21 +0000"
     },
@@ -12284,27 +12284,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:12 +0000"
     },
     "done": true
   },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-28 00:27:56 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:12 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/mercenary_armor_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
     },
     "done": true
   },
@@ -12338,12 +12338,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/snow_armor_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:12 +0000"
@@ -12353,6 +12347,12 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-28 00:27:56 +0000"
     },
     "done": true
   },

@@ -59,3 +59,21 @@
 [28Dec2024 00:41:44.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Dec2024 00:41:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY UNA BASTION=??????????<--[HERE]
 [28Dec2024 00:46:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [War Pigs]
+[28Dec2024 00:50:17.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.243.37.129:39101] logged in with entity id 181478 at (2806.082231692247, 64.0, 2907.177568821021)
+[28Dec2024 00:50:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[28Dec2024 00:50:17.620] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[28Dec2024 00:52:48.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[28Dec2024 00:54:27.950] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6183b7bd[id=<null>,name=xDogSaur,properties={},legacy=false] (/127.40.116.104:41161) lost connection: Disconnected
+[28Dec2024 00:54:50.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:43263] logged in with entity id 184344 at (512.413677126734, 82.90714328019824, -413.45257963918834)
+[28Dec2024 00:54:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[28Dec2024 00:54:50.802] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[28Dec2024 00:56:50.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[28Dec2024 00:56:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[28Dec2024 00:57:20.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:45493] logged in with entity id 185840 at (512.413677126734, 82.90714328019824, -413.45257963918834)
+[28Dec2024 00:57:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[28Dec2024 00:57:20.769] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[28Dec2024 00:57:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Premium!]
+[28Dec2024 00:58:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [What a Deal!]
+[28Dec2024 00:58:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has completed the challenge [Premium!]
+[28Dec2024 00:58:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 00:59:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> hola?

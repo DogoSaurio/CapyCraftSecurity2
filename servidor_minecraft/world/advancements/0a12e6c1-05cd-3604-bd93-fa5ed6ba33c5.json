@@ -6383,6 +6383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-28 00:56:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:21:50 +0000"
@@ -6416,6 +6422,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2024-12-28 00:56:11 +0000"
     },
     "done": true
   },
@@ -6590,6 +6602,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-28 00:56:20 +0000"
     },
     "done": true
   },
