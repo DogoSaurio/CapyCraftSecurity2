@@ -1689,6 +1689,7 @@
     "criteria": {
       "muskeg": "2024-12-25 22:20:57 +0000",
       "scrubland": "2024-12-25 23:26:31 +0000",
+      "erupting_inferno": "2024-12-28 00:21:13 +0000",
       "jade_cliffs": "2024-12-26 00:06:01 +0000",
       "cold_desert": "2024-12-21 21:53:53 +0000",
       "crystalline_chasm": "2024-12-24 23:19:40 +0000",
@@ -6403,7 +6404,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-22 00:56:40 +0000",
-      "minecraft:nether_wastes": "2024-12-24 23:16:35 +0000"
+      "minecraft:nether_wastes": "2024-12-24 23:16:35 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 00:25:11 +0000"
     },
     "done": false
   },
@@ -12248,6 +12250,102 @@
   "farmersdelight:recipes/cooking/stuffed_hoglin": {
     "criteria": {
       "has_raw_stuffed_hoglin": "2024-12-27 22:17:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-28 00:20:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:12 +0000"
     },
     "done": true
   },

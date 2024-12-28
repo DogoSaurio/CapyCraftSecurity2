@@ -1113,7 +1113,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "erupting_inferno": "2024-12-28 00:21:13 +0000",
       "cold_desert": "2024-12-21 21:36:04 +0000",
+      "withered_abyss": "2024-12-28 00:18:17 +0000",
       "coniferous_forest": "2024-12-21 21:40:09 +0000",
       "hot_springs": "2024-12-23 14:42:42 +0000",
       "fir_clearing": "2024-12-21 21:35:42 +0000",
@@ -5525,6 +5527,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 14:59:47 +0000",
       "minecraft:skeleton": "2024-12-23 14:55:00 +0000",
+      "minecraft:magma_cube": "2024-12-28 00:24:24 +0000",
       "minecraft:zombie": "2024-12-23 14:24:15 +0000"
     },
     "done": false
@@ -5997,6 +6000,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
@@ -6011,13 +6020,33 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-28 00:01:00 +0000"
+      "minecraft:crimson_forest": "2024-12-28 00:01:00 +0000",
+      "minecraft:nether_wastes": "2024-12-28 00:25:58 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 00:25:27 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-28 00:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
     },
     "done": true
   },
@@ -6033,9 +6062,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_weeping_vine_bow": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
     },
     "done": true
   },
@@ -6048,6 +6095,24 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
     },
     "done": true
   },
@@ -6069,9 +6134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
     },
     "done": true
   },
@@ -6081,15 +6158,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_table": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:20:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_feral_soul": {
     "criteria": {
       "has_soul_soil": "2024-12-28 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
     },
     "done": true
   },
@@ -6108,6 +6221,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
     },
     "done": true
   },
@@ -6141,6 +6260,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-28 00:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
@@ -6165,9 +6296,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
     },
     "done": true
   },
@@ -6183,15 +6332,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_crimson_planks": "2024-12-28 00:01:22 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
     },
     "done": true
   },
@@ -6207,9 +6380,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-28 00:21:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-28 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-12-28 00:25:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2024-12-28 00:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
     },
     "done": true
   },
@@ -6231,6 +6452,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-28 00:14:50 +0000"
@@ -6240,6 +6473,12 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2024-12-28 00:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
     },
     "done": true
   },
@@ -6255,15 +6494,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 00:01:22 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:21:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-27 23:57:58 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 00:19:04 +0000"
     },
     "done": true
   },

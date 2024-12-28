@@ -34,3 +34,14 @@
 [28Dec2024 00:18:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 288.500000, 66.000000, -152.500000]
 [28Dec2024 00:18:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
 [28Dec2024 00:18:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
+[28Dec2024 00:19:39.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -3.8404488867081454,2.0,-9.259667713733506
+[28Dec2024 00:20:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Straddle My Ol' Saddle]
+[28Dec2024 00:22:15.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=378, y=41, z=-308} BlockPos{x=380, y=40, z=-308}
+[28Dec2024 00:23:05.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[28Dec2024 00:23:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[28Dec2024 00:26:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[28Dec2024 00:26:56.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[28Dec2024 00:26:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Afarfa
+[28Dec2024 00:27:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[28Dec2024 00:28:39.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[28Dec2024 00:28:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]

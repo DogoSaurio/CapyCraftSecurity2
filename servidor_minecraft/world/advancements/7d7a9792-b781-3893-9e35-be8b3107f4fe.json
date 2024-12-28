@@ -1242,6 +1242,7 @@
       "rocky_shrubland": "2024-12-22 21:41:33 +0000",
       "scrubland": "2024-12-22 21:47:54 +0000",
       "bayou": "2024-12-22 21:43:55 +0000",
+      "erupting_inferno": "2024-12-28 00:21:17 +0000",
       "floodplain": "2024-12-22 21:45:11 +0000",
       "lush_savanna": "2024-12-22 21:59:26 +0000",
       "highland": "2024-12-25 22:12:52 +0000",
@@ -10980,6 +10981,72 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed": "2024-12-27 23:29:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-28 00:22:20 +0000"
     },
     "done": true
   },
