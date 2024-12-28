@@ -1552,3 +1552,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 04:58:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Nucaraga
 [28Dec2024 04:59:15.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:dios' of type 'minecraft:entity_type'
 [28Dec2024 05:00:17.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Afarfa
+[28Dec2024 05:03:29.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by Skeleton
+[28Dec2024 05:05:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga experienced kinetic energy
+[28Dec2024 05:07:14.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[28Dec2024 05:07:21.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[28Dec2024 05:07:21.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[28Dec2024 05:07:21.757] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 05:07:30.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Ice Bucket Challenge]
+[28Dec2024 05:09:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Mariachi?]
+[28Dec2024 05:09:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Mariachi?]
