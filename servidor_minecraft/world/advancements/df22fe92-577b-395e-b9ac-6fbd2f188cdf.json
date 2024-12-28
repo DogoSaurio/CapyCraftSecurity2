@@ -10337,6 +10337,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-28 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-28 03:35:36 +0000"
