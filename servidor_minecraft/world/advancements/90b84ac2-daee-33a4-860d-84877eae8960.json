@@ -8985,33 +8985,9 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/food/warped_moldy_meat": {
-    "criteria": {
-      "has_sirloin": "2024-12-28 05:08:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2024-12-28 05:10:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-28 05:07:30 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/food/hoglin_sirloin": {
-    "criteria": {
-      "has_the_recipe": "2024-12-28 05:08:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2024-12-28 05:09:45 +0000"
     },
     "done": true
   },
@@ -9027,15 +9003,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-28 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2024-12-28 05:08:31 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 05:08:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-28 05:09:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-28 05:10:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
-      "has_obsidian": "2024-12-28 05:07:30 +0000"
+      "has_item": "2024-12-28 05:10:43 +0000"
     },
     "done": true
   },
