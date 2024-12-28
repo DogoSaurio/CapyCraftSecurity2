@@ -10682,6 +10682,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-28 02:42:29 +0000"
@@ -10691,6 +10703,30 @@
   "mcda:recipes/unique_armors/archers_helmet": {
     "criteria": {
       "has_leather_helmet": "2024-12-28 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-28 03:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-28 03:31:35 +0000"
     },
     "done": true
   },

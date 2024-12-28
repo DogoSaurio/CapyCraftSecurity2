@@ -1235,3 +1235,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 03:27:44.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was doomed to fall
 [28Dec2024 03:27:51.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> 340 63 -5
 [28Dec2024 03:28:17.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 03:29:35.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.164.150.145:37323] logged in with entity id 67871 at (2746.17144110001, 62.07326234162254, 2908.620887462998)
+[28Dec2024 03:29:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[28Dec2024 03:29:35.374] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[28Dec2024 03:29:38.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[28Dec2024 03:29:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[28Dec2024 03:30:01.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.208.170.11:53407] logged in with entity id 68387 at (815.5987994324659, 30.0, -1288.300000011921)
+[28Dec2024 03:30:01.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[28Dec2024 03:30:01.518] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[28Dec2024 03:30:05.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[28Dec2024 03:30:24.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[28Dec2024 03:30:51.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported aw to xDogSaur]
+[28Dec2024 03:30:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[28Dec2024 03:31:05.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 0.003932387498480239,13.0,-0.21003428657240875
+[28Dec2024 03:32:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[28Dec2024 03:32:05.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -2.133769073554049,-0.4990033597325265,9.934931329160008
+[28Dec2024 03:33:52.703] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/71511, l='ServerLevel[world]', x=2674.64, y=73.00, z=2634.32]
+[28Dec2024 03:34:25.532] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/72292, l='ServerLevel[world]', x=2804.48, y=65.00, z=2475.16]
+[28Dec2024 03:35:36.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [What a Deal!]
+[28Dec2024 03:38:28.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
