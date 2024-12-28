@@ -11017,6 +11017,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2024-12-28 01:03:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
@@ -11071,6 +11077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-28 01:04:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
@@ -11080,6 +11092,12 @@
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-28 00:57:39 +0000"
     },
     "done": true
   },
@@ -11104,6 +11122,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-28 00:41:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-28 01:04:55 +0000"
     },
     "done": true
   },
