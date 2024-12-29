@@ -574,3 +574,13 @@
 [29Dec2024 05:32:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [29Dec2024 05:32:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
 [29Dec2024 05:33:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[29Dec2024 05:37:35.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[29Dec2024 05:38:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:39:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was blown up by xDogSaur
+[29Dec2024 05:39:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> as
+[29Dec2024 05:42:46.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:42:58.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
+[29Dec2024 05:42:58.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
+[29Dec2024 05:43:00.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
+[29Dec2024 05:43:01.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
+[29Dec2024 05:43:02.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
