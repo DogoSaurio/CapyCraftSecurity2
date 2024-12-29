@@ -308,6 +308,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-22 00:14:26 +0000",
       "minecraft:taiga": "2024-12-22 21:38:46 +0000",
       "minecraft:frozen_river": "2024-12-25 05:49:25 +0000",
+      "minecraft:birch_forest": "2024-12-29 00:14:22 +0000",
       "minecraft:beach": "2024-12-22 00:06:54 +0000",
       "minecraft:river": "2024-12-21 21:31:12 +0000",
       "minecraft:snowy_plains": "2024-12-25 05:49:15 +0000",
@@ -11384,6 +11385,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-29 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 00:12:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2024-12-29 00:02:20 +0000"
@@ -11405,6 +11424,12 @@
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_snow_block": "2024-12-28 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 00:10:54 +0000"
     },
     "done": true
   },
@@ -11432,6 +11457,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-29 00:12:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_fangs_of_frost": {
     "criteria": {
       "has_snow_block": "2024-12-28 23:41:03 +0000"
@@ -11444,9 +11475,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 00:12:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 00:10:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_fence": {
     "criteria": {
       "has_planks": "2024-12-28 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-29 00:12:20 +0000"
     },
     "done": true
   },
@@ -11456,9 +11505,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 00:12:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_boots": {
     "criteria": {
       "has_snow_block": "2024-12-28 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-29 00:10:54 +0000"
     },
     "done": true
   },

@@ -106,3 +106,31 @@
 [29Dec2024 00:15:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
 [29Dec2024 00:15:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Tie me to the Mast]
 [29Dec2024 00:15:43.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17132ms or 342 ticks behind
+[29Dec2024 00:16:12.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14043ms or 280 ticks behind
+[29Dec2024 00:16:14.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[29Dec2024 00:16:14.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[29Dec2024 00:16:37.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 8.155174047427181,-0.3800236743955381,-6.158652776025065
+[29Dec2024 00:16:47.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20606ms or 412 ticks behind
+[29Dec2024 00:17:06.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Dec2024 00:17:11.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 5.962602412399747,0.37673561378173304,-8.211943321774584
+[29Dec2024 00:17:27.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5752ms or 115 ticks behind
+[29Dec2024 00:17:37.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.223806326036538,0.08405890716053932,-6.785818041091147
+[29Dec2024 00:17:40.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.688200783738807,-0.3813270136692495,-7.761209971378776
+[29Dec2024 00:17:43.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.68918171770906,-0.38248583250327783,-7.762606136999693
+[29Dec2024 00:17:47.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.845917566104276,-1.7926867755796252,-7.835508372664663
+[29Dec2024 00:17:52.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.689181552168634,-0.3824859959459559,-7.7626060600019855
+[29Dec2024 00:17:55.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 17.0660909435627,-1.7242980929044052,-7.937917180955765
+[29Dec2024 00:17:56.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13668ms or 273 ticks behind
+[29Dec2024 00:17:58.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.689149958226835,-0.3824863921990982,-7.762591362529918
+[29Dec2024 00:18:03.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 15.415250724429427,5.730870283790523,-6.214648386259853
+[29Dec2024 00:18:07.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.041900436853496,1.9103834618769895,-6.907575328352323
+[29Dec2024 00:18:11.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.610472238649834,1.9737207244781985,-7.152399971536852
+[29Dec2024 00:18:15.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.212588618160623,-0.3989392515540544,-6.98183072583771
+[29Dec2024 00:18:19.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8931ms or 178 ticks behind
+[29Dec2024 00:18:32.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.029108206489894,0.0,-2.934938122067848
+[29Dec2024 00:23:19.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[29Dec2024 00:25:43.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:43929] logged in with entity id 116614 at (2790.4305913948197, 64.0, 2901.134699710497)
+[29Dec2024 00:25:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[29Dec2024 00:25:43.803] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[29Dec2024 00:25:47.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[29Dec2024 00:26:06.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4053ms or 81 ticks behind
