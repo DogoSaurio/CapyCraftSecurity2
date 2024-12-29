@@ -268,3 +268,19 @@
 [29Dec2024 01:47:14.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [29Dec2024 01:47:33.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
 [29Dec2024 01:48:02.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[29Dec2024 01:49:36.084] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Luzbel1t0/granja_de_minerales_4.nbt
+[29Dec2024 01:49:36.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Dec2024 01:50:01.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10225ms or 204 ticks behind
+[29Dec2024 01:52:08.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-560, y=29, z=-87} BlockPos{x=-558, y=29, z=-86}
+[29Dec2024 01:53:27.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=29, z=-81} BlockPos{x=-552, y=27, z=-81}
+[29Dec2024 01:53:27.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=28, z=-81} BlockPos{x=-552, y=27, z=-81}
+[29Dec2024 01:56:09.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-575, y=27, z=-108} BlockPos{x=-575, y=25, z=-108}
+[29Dec2024 01:56:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> no, 3s 3asy
+[29Dec2024 01:57:09.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> si es
+[29Dec2024 01:58:21.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[29Dec2024 01:58:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[29Dec2024 01:58:21.822] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:59:45.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:38389] logged in with entity id 187817 at (2794.8278458877444, 63.0, 2914.7756402614123)
+[29Dec2024 01:59:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[29Dec2024 01:59:45.913] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[29Dec2024 01:59:48.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind

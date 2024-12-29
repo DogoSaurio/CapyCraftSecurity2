@@ -10412,15 +10412,15 @@
     },
     "done": true
   },
-  "create:belt": {
-    "criteria": {
-      "0": "2024-12-29 01:06:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-29 01:06:09 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-29 01:06:24 +0000"
     },
     "done": true
   },

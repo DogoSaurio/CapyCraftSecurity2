@@ -4068,6 +4068,7 @@
     "criteria": {
       "minecraft:blaze": "2024-12-29 01:29:53 +0000",
       "minecraft:skeleton": "2024-12-23 19:29:06 +0000",
+      "minecraft:ghast": "2024-12-29 01:46:43 +0000",
       "minecraft:hoglin": "2024-12-26 04:27:39 +0000",
       "minecraft:vindicator": "2024-12-23 02:17:41 +0000",
       "minecraft:magma_cube": "2024-12-29 01:33:46 +0000",
@@ -9057,6 +9058,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 01:50:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
@@ -9072,6 +9079,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 01:50:21 +0000"
     },
     "done": true
   },
@@ -9114,6 +9127,12 @@
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2024-12-28 23:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
     },
     "done": true
   },
@@ -9180,6 +9199,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
     },
     "done": true
   },
@@ -9255,6 +9280,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
@@ -9270,6 +9301,18 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 01:50:21 +0000"
     },
     "done": true
   },
@@ -9315,9 +9358,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
     },
     "done": true
   },
@@ -9351,9 +9406,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-29 01:46:43 +0000"
     },
     "done": true
   },
@@ -9384,6 +9457,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-29 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-29 01:48:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:48:28 +0000"
     },
     "done": true
   },
