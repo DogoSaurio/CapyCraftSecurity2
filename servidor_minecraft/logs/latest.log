@@ -284,3 +284,36 @@
 [29Dec2024 01:59:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [29Dec2024 01:59:45.913] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [29Dec2024 01:59:48.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[29Dec2024 02:00:15.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[29Dec2024 02:00:15.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[29Dec2024 02:00:19.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15349ms or 306 ticks behind
+[29Dec2024 02:02:22.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-532, y=24, z=-135} BlockPos{x=-529, y=25, z=-131}
+[29Dec2024 02:02:22.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-532, y=25, z=-135} BlockPos{x=-529, y=25, z=-131}
+[29Dec2024 02:02:47.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:47.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:02:48.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=24, z=-148} BlockPos{x=-531, y=28, z=-142}
+[29Dec2024 02:03:01.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:56321] logged in with entity id 191488 at (2794.8278458877444, 63.0, 2914.7756402614123)
+[29Dec2024 02:03:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[29Dec2024 02:03:01.472] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[29Dec2024 02:03:05.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[29Dec2024 02:03:30.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10016ms or 200 ticks behind
+[29Dec2024 02:04:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> cuanta ar3na prcisabas?
+[29Dec2024 02:04:36.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> 66 stacks
+[29Dec2024 02:05:00.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[29Dec2024 02:06:14.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=35, z=-106} BlockPos{x=-525, y=35, z=-107}
+[29Dec2024 02:06:34.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-541, y=34, z=-99} BlockPos{x=-526, y=36, z=-107}
+[29Dec2024 02:07:59.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=33, z=-114} BlockPos{x=-533, y=33, z=-113}
+[29Dec2024 02:07:59.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=33, z=-114} BlockPos{x=-533, y=33, z=-113}
+[29Dec2024 02:10:04.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=26, z=-72} BlockPos{x=-531, y=26, z=-77}
