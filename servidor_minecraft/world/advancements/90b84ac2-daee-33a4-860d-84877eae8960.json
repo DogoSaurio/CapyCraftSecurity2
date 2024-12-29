@@ -368,6 +368,7 @@
       "snowblossom_grove": "2024-12-29 00:16:58 +0000",
       "cold_desert": "2024-12-23 02:03:06 +0000",
       "maple_woods": "2024-12-28 23:36:42 +0000",
+      "withered_abyss": "2024-12-29 01:35:12 +0000",
       "field": "2024-12-28 23:52:14 +0000",
       "coniferous_forest": "2024-12-23 00:39:57 +0000",
       "forested_field": "2024-12-26 17:51:44 +0000",
@@ -4065,14 +4066,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-29 01:29:53 +0000",
       "minecraft:skeleton": "2024-12-23 19:29:06 +0000",
       "minecraft:hoglin": "2024-12-26 04:27:39 +0000",
       "minecraft:vindicator": "2024-12-23 02:17:41 +0000",
+      "minecraft:magma_cube": "2024-12-29 01:33:46 +0000",
       "minecraft:spider": "2024-12-23 15:05:49 +0000",
       "minecraft:creeper": "2024-12-23 22:42:39 +0000",
+      "minecraft:wither_skeleton": "2024-12-29 01:36:02 +0000",
       "minecraft:cave_spider": "2024-12-25 17:01:27 +0000",
       "minecraft:piglin": "2024-12-28 23:03:46 +0000",
       "minecraft:silverfish": "2024-12-23 19:28:06 +0000",
+      "minecraft:enderman": "2024-12-29 01:36:57 +0000",
       "minecraft:zombie": "2024-12-23 15:05:24 +0000",
       "minecraft:drowned": "2024-12-25 15:33:36 +0000",
       "minecraft:zombie_villager": "2024-12-25 14:19:16 +0000"
@@ -8393,7 +8398,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-26 04:25:41 +0000"
+      "minecraft:crimson_forest": "2024-12-26 04:25:41 +0000",
+      "minecraft:nether_wastes": "2024-12-29 01:42:26 +0000"
     },
     "done": false
   },
@@ -9075,6 +9081,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-29 01:29:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
@@ -9135,6 +9147,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2024-12-29 01:30:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
@@ -9144,6 +9162,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:37:14 +0000"
     },
     "done": true
   },
@@ -9171,6 +9195,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2024-12-29 01:35:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
@@ -9189,9 +9219,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:37:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-29 01:34:13 +0000"
     },
     "done": true
   },
@@ -9234,6 +9276,12 @@
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2024-12-28 23:33:10 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2024-12-29 01:30:29 +0000"
     },
     "done": true
   },
@@ -9309,15 +9357,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:37:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-29 01:29:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-29 01:29:54 +0000"
     },
     "done": true
   },
