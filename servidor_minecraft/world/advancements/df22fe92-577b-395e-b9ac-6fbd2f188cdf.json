@@ -10436,6 +10436,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-12-29 03:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-29 02:49:33 +0000"
@@ -10451,6 +10457,12 @@
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2024-12-29 02:49:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-29 03:02:13 +0000"
     },
     "done": true
   },
