@@ -12569,6 +12569,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-29 06:08:29 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
       "has_soil": "2024-12-29 05:46:00 +0000"
