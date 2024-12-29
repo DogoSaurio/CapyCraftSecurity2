@@ -392,3 +392,6 @@
 [29Dec2024 03:10:14.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.815312633054438
 [29Dec2024 03:10:14.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 0.9760992059460142
 [29Dec2024 03:10:14.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luzbel1t0) moved wrongly! 1.1607905592299428
+[29Dec2024 03:16:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Cachalot Whale
+[29Dec2024 03:20:40.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[29Dec2024 03:21:01.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5886ms or 117 ticks behind
