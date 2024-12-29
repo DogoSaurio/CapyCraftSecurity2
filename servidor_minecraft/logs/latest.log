@@ -593,3 +593,32 @@
 [29Dec2024 05:55:37.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
 [29Dec2024 05:55:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
 [29Dec2024 05:55:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 05:56:25.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 05:56:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:56:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 05:57:04.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:57:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 05:57:59.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 05:58:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 05:58:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:58:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 05:58:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 05:58:32.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=237, y=30, z=-107} BlockPos{x=237, y=29, z=-107}
+[29Dec2024 05:58:32.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=237, y=28, z=-109} BlockPos{x=236, y=29, z=-111}
+[29Dec2024 06:00:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 06:00:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 06:01:00.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 06:01:03.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 06:01:41.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 06:01:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 06:01:55.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=30, z=-112} BlockPos{x=243, y=30, z=-110}
+[29Dec2024 06:03:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 06:03:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 06:03:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 06:03:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 06:03:45.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=30, z=-112} BlockPos{x=243, y=29, z=-112}
+[29Dec2024 06:03:46.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=28, z=-111} BlockPos{x=244, y=30, z=-109}
+[29Dec2024 06:03:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 06:04:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[29Dec2024 06:05:08.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Ferrous Wroughtnaut
+[29Dec2024 06:05:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
