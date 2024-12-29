@@ -395,3 +395,8 @@
 [29Dec2024 03:16:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Cachalot Whale
 [29Dec2024 03:20:40.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
 [29Dec2024 03:21:01.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5886ms or 117 ticks behind
+[29Dec2024 03:22:46.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
+[29Dec2024 03:29:01.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.61.138.200:50081] logged in with entity id 260984 at (280.1037669391097, 63.0, -49.353899954594496)
+[29Dec2024 03:29:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[29Dec2024 03:29:01.828] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[29Dec2024 03:31:58.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Enderman
