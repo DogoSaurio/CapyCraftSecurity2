@@ -11384,6 +11384,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2024-12-29 00:02:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2024-12-28 22:52:48 +0000"
