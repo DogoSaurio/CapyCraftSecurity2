@@ -400,3 +400,5 @@
 [29Dec2024 03:29:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
 [29Dec2024 03:29:01.828] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
 [29Dec2024 03:31:58.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Enderman
+[29Dec2024 03:33:04.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[29Dec2024 03:41:06.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Hunt and Gather]
