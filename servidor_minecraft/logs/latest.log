@@ -435,3 +435,7 @@
 [29Dec2024 03:59:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> COMO ME LO PEDISTE
 [29Dec2024 04:00:19.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.07083859635435,0.8800391385729398,0.9331475248558689
 [29Dec2024 04:01:55.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> falta?
+[29Dec2024 04:06:08.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[29Dec2024 04:06:29.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6377ms or 127 ticks behind
+[29Dec2024 04:12:07.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[29Dec2024 04:12:27.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5494ms or 109 ticks behind
