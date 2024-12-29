@@ -712,3 +712,7 @@
 [29Dec2024 06:49:13.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [29Dec2024 06:49:27.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/350478, l='ServerLevel[world]', x=471.50, y=59.00, z=-125.50]
 [29Dec2024 06:53:07.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/351522, l='ServerLevel[world]', x=470.50, y=54.00, z=-114.50]
+[29Dec2024 06:58:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Disconnected
+[29Dec2024 06:58:45.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[29Dec2024 07:11:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Skeleton
+[29Dec2024 07:13:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Zombie
