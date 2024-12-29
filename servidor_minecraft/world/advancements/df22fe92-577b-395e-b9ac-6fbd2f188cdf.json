@@ -10424,5 +10424,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-29 02:38:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

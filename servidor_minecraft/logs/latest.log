@@ -370,3 +370,10 @@
 [29Dec2024 02:31:13.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [29Dec2024 02:31:30.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
 [29Dec2024 02:37:29.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[29Dec2024 02:41:38.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[29Dec2024 02:43:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> fafa de que bloque las paredes?
+[29Dec2024 02:43:24.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> ladrillos d n3th3r
+[29Dec2024 02:43:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ese no era el suelo?
+[29Dec2024 02:48:43.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[29Dec2024 02:48:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[29Dec2024 02:49:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [The Brass Age]
