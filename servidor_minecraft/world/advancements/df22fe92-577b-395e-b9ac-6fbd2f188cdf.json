@@ -10436,6 +10436,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2024-12-29 04:41:34 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2024-12-29 03:03:13 +0000"
@@ -10445,6 +10451,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-29 02:49:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:41:34 +0000"
     },
     "done": true
   },
@@ -10493,6 +10505,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2024-12-29 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 04:41:34 +0000"
     },
     "done": true
   },

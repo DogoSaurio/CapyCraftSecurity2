@@ -449,3 +449,29 @@
 [29Dec2024 04:20:14.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was burnt to a crisp whilst fighting Blaze
 [29Dec2024 04:20:19.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
 [29Dec2024 04:20:39.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[29Dec2024 04:30:14.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Dec2024 04:30:34.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4917ms or 98 ticks behind
+[29Dec2024 04:31:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola?
+[29Dec2024 04:31:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> OA
+[29Dec2024 04:31:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pq tan sola
+[29Dec2024 04:31:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> por que soy un lobo solitario
+[29Dec2024 04:32:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 04:32:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
+[29Dec2024 04:32:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y afarfa?
+[29Dec2024 04:32:15.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Afarfa> Q
+[29Dec2024 04:32:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> no se
+[29Dec2024 04:34:52.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[29Dec2024 04:34:52.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -9.445560453466726,0.1715559446593744,-3.9674547014553667
+[29Dec2024 04:37:06.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ae103f1[id=<null>,name=xDogSaur,properties={},legacy=false] (/127.40.116.104:39649) lost connection: Disconnected
+[29Dec2024 04:37:20.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:33441] logged in with entity id 301249 at (313.8993618777597, 64.0, -42.35699981144785)
+[29Dec2024 04:37:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[29Dec2024 04:37:20.391] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[29Dec2024 04:37:22.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[29Dec2024 04:37:23.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 10.077801771492432,0.0,0.19690915958653932
+[29Dec2024 04:40:56.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> pq tan sola
+[29Dec2024 04:42:35.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[29Dec2024 04:42:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[29Dec2024 04:42:35.996] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 04:42:48.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:51037] logged in with entity id 304116 at (320.5905914253514, 63.0, -31.02671983317827)
+[29Dec2024 04:42:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[29Dec2024 04:42:48.416] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
