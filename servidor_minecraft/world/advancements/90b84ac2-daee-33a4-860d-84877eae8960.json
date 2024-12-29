@@ -367,6 +367,7 @@
       "muskeg": "2024-12-28 23:34:26 +0000",
       "cold_desert": "2024-12-23 02:03:06 +0000",
       "maple_woods": "2024-12-28 23:36:42 +0000",
+      "field": "2024-12-28 23:52:14 +0000",
       "coniferous_forest": "2024-12-23 00:39:57 +0000",
       "forested_field": "2024-12-26 17:51:44 +0000",
       "fir_clearing": "2024-12-23 01:57:51 +0000",
@@ -9083,6 +9084,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-28 23:53:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-28 23:33:18 +0000"
@@ -9188,6 +9195,12 @@
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-28 23:52:43 +0000"
     },
     "done": true
   },
