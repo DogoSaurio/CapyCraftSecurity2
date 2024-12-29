@@ -173,3 +173,14 @@
 [29Dec2024 00:37:32.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:53049] logged in with entity id 123488 at (2701.9071034242106, 62.07326432466507, 2902.954998535469)
 [29Dec2024 00:37:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [29Dec2024 00:37:32.931] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[29Dec2024 00:37:37.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Dec2024 00:37:52.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -2.2786081308838675,0.8322033533667508,-9.743365216492975
+[29Dec2024 00:38:00.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8197ms or 163 ticks behind
+[29Dec2024 00:39:32.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[29Dec2024 00:39:32.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[29Dec2024 00:40:33.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.94.106.79:48539] logged in with entity id 125209 at (2789.692051695103, 64.6837968405392, 2900.831125056435)
+[29Dec2024 00:40:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[29Dec2024 00:40:33.697] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[29Dec2024 00:40:37.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[29Dec2024 00:40:54.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[29Dec2024 00:43:08.405] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Luzbel1t0/granja_de_minerales_2.nbt
