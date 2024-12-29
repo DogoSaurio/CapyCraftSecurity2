@@ -584,3 +584,12 @@
 [29Dec2024 05:43:00.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
 [29Dec2024 05:43:01.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
 [29Dec2024 05:43:02.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved wrongly!
+[29Dec2024 05:47:40.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=65, z=34} BlockPos{x=358, y=64, z=34}
+[29Dec2024 05:47:40.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=65, z=34} BlockPos{x=359, y=64, z=34}
+[29Dec2024 05:49:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[29Dec2024 05:52:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[29Dec2024 05:53:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[29Dec2024 05:54:12.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[29Dec2024 05:55:37.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[29Dec2024 05:55:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Ferrous Wroughtnaut
+[29Dec2024 05:55:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
