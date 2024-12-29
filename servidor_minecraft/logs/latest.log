@@ -184,3 +184,29 @@
 [29Dec2024 00:40:37.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
 [29Dec2024 00:40:54.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
 [29Dec2024 00:43:08.405] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Luzbel1t0/granja_de_minerales_2.nbt
+[29Dec2024 00:48:26.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.167.174.136:37063] logged in with entity id 129896 at (-876.3258786649179, 65.0, -824.3971454483366)
+[29Dec2024 00:48:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[29Dec2024 00:48:26.766] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[29Dec2024 00:48:29.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[29Dec2024 00:48:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was blown up by xDogSaur
+[29Dec2024 00:49:00.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15780ms or 315 ticks behind
+[29Dec2024 00:49:21.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5998ms or 119 ticks behind
+[29Dec2024 00:49:46.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10740ms or 214 ticks behind
+[29Dec2024 00:49:59.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 7.6844887077952535,1.252203340253729,6.519300072144915
+[29Dec2024 00:50:11.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9137ms or 182 ticks behind
+[29Dec2024 00:50:38.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12841ms or 256 ticks behind
+[29Dec2024 00:50:59.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
+[29Dec2024 00:51:07.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 9.748346820792847,-2.535840625044557,1.361503131951281
+[29Dec2024 00:51:28.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13602ms or 272 ticks behind
+[29Dec2024 00:51:52.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9628ms or 192 ticks behind
+[29Dec2024 00:52:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> Dios mato a dios
+[29Dec2024 00:52:16.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8315ms or 166 ticks behind
+[29Dec2024 00:52:28.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 4.953502528663648,0.5061351021062137,-9.022025947433121
+[29Dec2024 00:52:28.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 9.785011350131015,0.0,-2.41273928899345
+[29Dec2024 00:52:40.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8955ms or 179 ticks behind
+[29Dec2024 00:53:02.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6835ms or 136 ticks behind
+[29Dec2024 00:53:23.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6181ms or 123 ticks behind
+[29Dec2024 00:53:37.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved wrongly!
+[29Dec2024 00:53:42.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[29Dec2024 00:53:59.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[29Dec2024 00:54:18.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
