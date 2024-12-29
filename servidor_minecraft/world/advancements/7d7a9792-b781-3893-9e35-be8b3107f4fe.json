@@ -11529,39 +11529,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/axes/axe_axe": {
-    "criteria": {
-      "has_iron_axe": "2024-12-29 04:06:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
       "has_ingredient": "2024-12-29 02:49:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
+      "has_ice": "2024-12-29 02:49:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
+      "has_clay_block": "2024-12-29 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
     },
     "done": true
   },
@@ -11589,36 +11577,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-29 04:08:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/umbran_fence": {
-    "criteria": {
-      "has_planks": "2024-12-29 04:08:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-29 04:08:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-12-29 03:37:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-29 03:39:38 +0000"
@@ -11634,12 +11592,6 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-29 03:39:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-29 04:08:29 +0000"
     },
     "done": true
   },
@@ -11661,6 +11613,126 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-29 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-29 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-29 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-29 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-29 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-29 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:08:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_button": {
     "criteria": {
       "has_planks": "2024-12-29 04:08:29 +0000"
@@ -11679,48 +11751,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2024-12-29 03:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2024-12-29 02:49:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2024-12-29 03:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-29 03:42:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/umbran_sign": {
     "criteria": {
       "has_planks": "2024-12-29 04:08:29 +0000"
@@ -11733,39 +11763,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/use_skillet": {
     "criteria": {
       "skillet": "2024-12-29 04:25:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-29 03:48:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2024-12-29 03:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-29 03:39:38 +0000"
     },
     "done": true
   },
