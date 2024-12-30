@@ -369,6 +369,7 @@
       "snowblossom_grove": "2024-12-29 00:16:58 +0000",
       "cold_desert": "2024-12-23 02:03:06 +0000",
       "maple_woods": "2024-12-28 23:36:42 +0000",
+      "crystalline_chasm": "2024-12-30 17:10:04 +0000",
       "withered_abyss": "2024-12-29 01:35:12 +0000",
       "field": "2024-12-28 23:52:14 +0000",
       "coniferous_forest": "2024-12-23 00:39:57 +0000",
@@ -8407,7 +8408,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-26 04:25:41 +0000",
-      "minecraft:nether_wastes": "2024-12-29 01:42:26 +0000"
+      "minecraft:nether_wastes": "2024-12-29 01:42:26 +0000",
+      "minecraft:soul_sand_valley": "2024-12-30 17:09:16 +0000"
     },
     "done": false
   },
