@@ -11798,6 +11798,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2024-12-30 19:09:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_shivering_bow": {
     "criteria": {
       "has_blue_ice": "2024-12-30 18:41:48 +0000"
