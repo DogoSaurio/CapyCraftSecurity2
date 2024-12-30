@@ -4074,8 +4074,10 @@
     "criteria": {
       "minecraft:blaze": "2024-12-29 01:29:53 +0000",
       "minecraft:skeleton": "2024-12-23 19:29:06 +0000",
+      "minecraft:elder_guardian": "2024-12-30 22:00:25 +0000",
       "minecraft:ghast": "2024-12-29 01:46:43 +0000",
       "minecraft:hoglin": "2024-12-26 04:27:39 +0000",
+      "minecraft:guardian": "2024-12-30 22:00:09 +0000",
       "minecraft:vindicator": "2024-12-23 02:17:41 +0000",
       "minecraft:magma_cube": "2024-12-29 01:33:46 +0000",
       "minecraft:spider": "2024-12-23 15:05:49 +0000",
@@ -10385,9 +10387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-30 18:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
     },
     "done": true
   },
@@ -10397,15 +10411,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
     "criteria": {
       "has_cauldron": "2024-12-30 21:27:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_leggings": {
     "criteria": {
       "has_phantom_skin": "2024-12-30 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:01:48 +0000"
     },
     "done": true
   },
@@ -10418,6 +10468,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-30 20:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 21:59:12 +0000"
     },
     "done": true
   },
