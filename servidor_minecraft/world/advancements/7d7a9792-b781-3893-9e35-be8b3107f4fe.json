@@ -11799,45 +11799,27 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_gravity": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "has_anvil": "2024-12-30 19:09:20 +0000"
+      "has_bamboo": "2024-12-30 18:01:31 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_shivering_bow": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_blue_ice": "2024-12-30 18:41:48 +0000"
+      "has_bamboo": "2024-12-30 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-30 18:01:31 +0000"
     },
     "done": true
   },
   "mcda:recipes/base_armors/goat_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2024-12-30 18:25:42 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_iceologer": "2024-12-30 18:41:39 +0000"
-    },
-    "done": false
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2024-12-30 18:41:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2024-12-30 19:49:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/blue_ice": {
-    "criteria": {
-      "has_result": "2024-12-30 18:41:48 +0000"
     },
     "done": true
   },
@@ -11859,15 +11841,40 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_bamboo": "2024-12-30 18:01:31 +0000"
+      "killed_illusioner": "2024-12-30 20:21:21 +0000",
+      "killed_iceologer": "2024-12-30 18:41:39 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2024-12-30 18:41:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "mcdw:recipes/bows/bow_shivering_bow": {
     "criteria": {
-      "has_bamboo": "2024-12-30 18:01:31 +0000"
+      "has_blue_ice": "2024-12-30 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2024-12-30 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2024-12-30 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-30 19:49:10 +0000"
     },
     "done": true
   },
@@ -11877,9 +11884,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
-      "has_bamboo": "2024-12-30 18:01:31 +0000"
+      "killed_illusioner": "2024-12-30 20:21:21 +0000"
     },
     "done": true
   },
