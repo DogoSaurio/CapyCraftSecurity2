@@ -6292,6 +6292,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2024-12-30 22:25:38 +0000",
       "noodle_soup": "2024-12-23 04:29:23 +0000",
       "fish_stew": "2024-12-23 01:27:46 +0000",
       "fried_rice": "2024-12-23 23:07:19 +0000"
@@ -12021,6 +12022,12 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2024-12-30 20:21:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-30 22:25:38 +0000"
     },
     "done": true
   },
