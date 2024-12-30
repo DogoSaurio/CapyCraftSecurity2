@@ -11784,5 +11784,17 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-30 02:41:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-30 02:41:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
