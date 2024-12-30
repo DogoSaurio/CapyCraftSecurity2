@@ -10088,6 +10088,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-30 01:20:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_helmet": {
     "criteria": {
       "has_phantom_bones": "2024-12-30 00:37:50 +0000"
@@ -10109,6 +10115,18 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-30 00:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-30 01:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-30 01:20:20 +0000"
     },
     "done": true
   },
