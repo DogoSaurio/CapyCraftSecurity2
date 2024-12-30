@@ -1053,3 +1053,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 16:52:36.217] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [30Dec2024 16:55:14.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
 [30Dec2024 16:57:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Complex Curiosities]
+[30Dec2024 17:01:49.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Hot Stuff]
+[30Dec2024 17:06:44.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 17.93069292213488,2.199126115137574,2.079018980238162
+[30Dec2024 17:06:44.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[30Dec2024 17:06:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> 363, 51, 357
+[30Dec2024 17:07:02.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind

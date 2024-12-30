@@ -10169,6 +10169,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-30 17:01:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
       "has_item": "2024-12-30 16:40:03 +0000"
