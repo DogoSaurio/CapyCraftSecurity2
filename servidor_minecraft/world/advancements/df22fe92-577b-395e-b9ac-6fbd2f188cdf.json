@@ -10737,5 +10737,11 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
+    "criteria": {
+      "has_cauldron": "2024-12-30 01:11:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
