@@ -4076,6 +4076,7 @@
       "minecraft:spider": "2024-12-23 15:05:49 +0000",
       "minecraft:creeper": "2024-12-23 22:42:39 +0000",
       "minecraft:phantom": "2024-12-30 00:37:50 +0000",
+      "minecraft:zombified_piglin": "2024-12-30 03:50:35 +0000",
       "minecraft:wither_skeleton": "2024-12-29 01:36:02 +0000",
       "minecraft:cave_spider": "2024-12-25 17:01:27 +0000",
       "minecraft:piglin": "2024-12-28 23:03:46 +0000",
@@ -6182,6 +6183,7 @@
       "apple": "2024-12-29 02:44:02 +0000",
       "cooked_cod": "2024-12-29 03:38:38 +0000",
       "golden_apple": "2024-12-25 00:09:44 +0000",
+      "rotten_flesh": "2024-12-30 03:07:38 +0000",
       "golden_carrot": "2024-12-23 16:53:25 +0000",
       "carrot": "2024-12-29 00:19:02 +0000"
     },
@@ -10133,6 +10135,12 @@
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2024-12-30 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2024-12-30 04:04:00 +0000"
     },
     "done": true
   },
