@@ -1133,3 +1133,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 17:11:52.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Dec2024 17:11:52.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Dec2024 17:11:52.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Dec2024 17:24:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has reached the goal [Desperate Measures]

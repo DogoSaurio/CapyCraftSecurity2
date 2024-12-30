@@ -375,6 +375,7 @@
       "coniferous_forest": "2024-12-23 00:39:57 +0000",
       "forested_field": "2024-12-26 17:51:44 +0000",
       "visceral_heap": "2024-12-29 02:20:03 +0000",
+      "aspen_glade": "2024-12-30 17:27:45 +0000",
       "fir_clearing": "2024-12-23 01:57:51 +0000",
       "pumpkin_patch": "2024-12-28 23:34:30 +0000",
       "snowy_coniferous_forest": "2024-12-23 01:17:22 +0000",
@@ -10159,6 +10160,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 17:27:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2024-12-30 16:50:55 +0000"
@@ -10174,6 +10187,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-30 17:01:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 17:27:10 +0000"
     },
     "done": true
   },
@@ -10204,6 +10223,18 @@
   "create:windmill": {
     "criteria": {
       "0": "2024-12-30 16:41:32 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-30 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 17:28:13 +0000"
     },
     "done": true
   },
@@ -10246,6 +10277,12 @@
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2024-12-30 16:50:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 17:27:10 +0000"
     },
     "done": true
   },
