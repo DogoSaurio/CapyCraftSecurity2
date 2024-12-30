@@ -1027,3 +1027,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 14:58:05.978] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
 [30Dec2024 14:58:08.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
 [30Dec2024 14:58:39.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16902ms or 338 ticks behind
+[30Dec2024 15:06:38.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[30Dec2024 15:06:55.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[30Dec2024 15:18:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[30Dec2024 15:32:30.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[30Dec2024 15:32:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me voy adormir avisame cualquier coa
+[30Dec2024 15:32:49.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
