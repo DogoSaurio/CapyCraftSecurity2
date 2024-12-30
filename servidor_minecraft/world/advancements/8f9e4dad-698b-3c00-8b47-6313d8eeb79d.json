@@ -10995,5 +10995,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 01:46:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

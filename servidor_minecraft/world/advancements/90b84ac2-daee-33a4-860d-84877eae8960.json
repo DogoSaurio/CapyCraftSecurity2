@@ -10130,5 +10130,11 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2024-12-30 01:49:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
