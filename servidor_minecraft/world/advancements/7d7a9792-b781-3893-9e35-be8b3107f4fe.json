@@ -11796,6 +11796,30 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-30 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-30 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-30 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-30 18:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-30 18:01:31 +0000"
