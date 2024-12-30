@@ -11828,6 +11828,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-30 19:49:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
       "has_result": "2024-12-30 18:41:48 +0000"

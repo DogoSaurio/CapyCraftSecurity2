@@ -11279,6 +11279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-30 19:52:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2024-12-30 19:18:00 +0000"
@@ -11288,6 +11294,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-30 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2024-12-30 19:53:02 +0000"
     },
     "done": true
   },
