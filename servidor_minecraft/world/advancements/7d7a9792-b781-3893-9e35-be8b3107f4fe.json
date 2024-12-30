@@ -8337,7 +8337,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-25 21:18:04 +0000",
-      "in_better_monster_room": "2024-12-23 20:54:31 +0000"
+      "in_better_monster_room": "2024-12-23 20:54:31 +0000",
+      "in_better_spider_dungeon": "2024-12-30 20:03:03 +0000"
     },
     "done": false
   },
@@ -11867,6 +11868,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-30 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-30 20:03:03 +0000"
     },
     "done": true
   },
