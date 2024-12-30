@@ -1262,6 +1262,7 @@
       "apple": "2024-12-21 21:29:02 +0000",
       "potato": "2024-12-28 03:27:54 +0000",
       "cooked_cod": "2024-12-21 23:50:36 +0000",
+      "mutton": "2024-12-30 01:02:37 +0000",
       "bread": "2024-12-21 22:09:42 +0000",
       "golden_apple": "2024-12-21 22:48:03 +0000",
       "rotten_flesh": "2024-12-21 21:38:57 +0000",
@@ -12602,6 +12603,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-12-29 06:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 01:03:03 +0000"
     },
     "done": true
   },

@@ -11776,5 +11776,11 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-30 01:00:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
