@@ -313,6 +313,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-26 17:51:43 +0000",
       "minecraft:frozen_river": "2024-12-28 04:13:49 +0000",
+      "minecraft:beach": "2024-12-30 15:54:00 +0000",
       "minecraft:river": "2024-12-23 01:51:47 +0000",
       "minecraft:snowy_plains": "2024-12-23 02:07:39 +0000",
       "minecraft:snowy_taiga": "2024-12-23 02:07:41 +0000",
@@ -10141,6 +10142,30 @@
   "create_enchantment_industry:gone_with_the_foil": {
     "criteria": {
       "builtin": "2024-12-30 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-30 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-30 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-30 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-30 15:57:01 +0000"
     },
     "done": true
   },
