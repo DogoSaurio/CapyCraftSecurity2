@@ -11051,33 +11051,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:43:48 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/squid_armor_chestplate": {
     "criteria": {
       "has_ink_sac": "2024-12-30 06:12:00 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2024-12-30 06:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 06:13:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:45:06 +0000"
     },
     "done": true
   },
@@ -11087,9 +11063,33 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "requirement": "2024-12-30 06:14:21 +0000"
+      "has_ink_sac": "2024-12-30 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 06:13:58 +0000"
     },
     "done": true
   },
@@ -11111,117 +11111,15 @@
     },
     "done": true
   },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2024-12-30 06:31:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-30 06:12:00 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_leggings": {
-    "criteria": {
-      "has_ink_sac": "2024-12-30 06:12:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:45:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 06:13:58 +0000"
     },
     "done": true
   },
-  "create:steam_engine": {
-    "criteria": {
-      "0": "2024-12-30 06:34:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:45:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:43:48 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2024-12-30 06:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2024-12-30 06:35:50 +0000"
-    },
-    "done": true
-  },
-  "create:crusher_maxed_0000": {
-    "criteria": {
-      "0": "2024-12-30 06:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:43:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_helmet": {
-    "criteria": {
-      "has_ink_sac": "2024-12-30 06:12:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 06:13:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_ink_sac": "2024-12-30 06:12:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:43:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-30 06:45:07 +0000"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2024-12-30 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2024-12-30 06:31:43 +0000"
     },
     "done": true
   },
@@ -11234,6 +11132,108 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-30 06:13:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-12-30 06:14:21 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-30 06:31:37 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-12-30 06:31:43 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2024-12-30 06:34:10 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-30 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-12-30 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-30 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2024-12-30 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-12-30 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:45:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:45:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:45:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-30 06:45:07 +0000"
     },
     "done": true
   },

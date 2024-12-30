@@ -1033,3 +1033,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 15:32:30.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
 [30Dec2024 15:32:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me voy adormir avisame cualquier coa
 [30Dec2024 15:32:49.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
+[30Dec2024 16:11:43.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.32.28.143:55677] logged in with entity id 22650 at (2760.3955969551585, 66.0, 2887.758793641459)
+[30Dec2024 16:11:43.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[30Dec2024 16:11:43.186] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[30Dec2024 16:11:46.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[30Dec2024 16:15:40.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Dec2024 16:16:06.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11562ms or 231 ticks behind
