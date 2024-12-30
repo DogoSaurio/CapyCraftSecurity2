@@ -11134,12 +11134,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-12-30 05:32:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2024-12-30 05:31:30 +0000"
@@ -11200,12 +11194,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2024-12-30 05:59:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2024-12-30 05:31:30 +0000"
@@ -11227,12 +11215,6 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-30 05:31:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
-    "criteria": {
-      "has_core_specification_item": "2024-12-30 05:43:43 +0000"
     },
     "done": true
   },
@@ -11260,12 +11242,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2024-12-30 05:32:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 05:31:30 +0000"
@@ -11275,6 +11251,30 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2024-12-30 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-30 05:32:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-30 05:32:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-30 05:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-30 05:59:48 +0000"
     },
     "done": true
   },
