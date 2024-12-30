@@ -2413,6 +2413,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2024-12-30 18:08:23 +0000",
       "noodle_soup": "2024-12-23 02:42:33 +0000",
       "fish_stew": "2024-12-23 01:27:43 +0000",
       "pasta_with_mutton_chop": "2024-12-22 23:49:44 +0000",
@@ -11275,6 +11276,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2024-12-30 05:59:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-30 18:05:22 +0000"
     },
     "done": true
   },
