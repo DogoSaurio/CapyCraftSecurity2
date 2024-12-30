@@ -1048,3 +1048,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 16:45:54.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=43, z=-109} BlockPos{x=277, y=42, z=-109}
 [30Dec2024 16:45:54.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=46, z=-109} BlockPos{x=278, y=45, z=-109}
 [30Dec2024 16:45:59.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=58, z=-117} BlockPos{x=284, y=57, z=-117}
+[30Dec2024 16:52:36.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.32.28.143:45485] logged in with entity id 41699 at (2770.382973738608, 64.0, 2903.1493782204993)
+[30Dec2024 16:52:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[30Dec2024 16:52:36.217] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[30Dec2024 16:55:14.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[30Dec2024 16:57:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Complex Curiosities]
