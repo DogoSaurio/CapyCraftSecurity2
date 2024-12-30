@@ -11001,5 +11001,11 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2024-12-30 01:54:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

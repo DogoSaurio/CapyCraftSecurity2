@@ -1309,3 +1309,47 @@ Caused by: java.lang.NullPointerException
 [30Dec2024 01:51:11.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Netherite Monstrosity
 [30Dec2024 01:51:20.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
 [30Dec2024 01:51:20.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[30Dec2024 01:51:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[30Dec2024 01:51:38.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
+[30Dec2024 01:51:58.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4950ms or 99 ticks behind
+[30Dec2024 01:52:23.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.240.251.101:46625] logged in with entity id 90331 at (22490.328189145777, 6.0, 23177.6836224947)
+[30Dec2024 01:52:23.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[30Dec2024 01:52:23.185] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[30Dec2024 01:52:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[30Dec2024 01:53:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [The broken Nether's warmachine]
+[30Dec2024 01:53:43.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[30Dec2024 01:54:16.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [The Silence of the Forest]
+[30Dec2024 01:54:41.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Fiery Beast]
+[30Dec2024 01:56:05.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4133ms or 82 ticks behind
+[30Dec2024 01:56:05.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -19619.018844338207,57.07840000152588,-20203.531366541716
+[30Dec2024 01:56:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Afarfa
+[30Dec2024 01:56:14.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[30Dec2024 01:56:24.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4327ms or 86 ticks behind
+[30Dec2024 01:56:25.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Resistance to xDogSaur]
+[30Dec2024 01:56:40.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! -9.041368333884577,1.1661092609382138,4.171898972009739
+[30Dec2024 01:56:45.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5730ms or 114 ticks behind
+[30Dec2024 01:57:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was blown up by xDogSaur
+[30Dec2024 01:57:11.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[30Dec2024 01:57:22.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Chicken]
+[30Dec2024 01:57:25.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[30Dec2024 01:57:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[30Dec2024 01:57:30.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3918ms or 78 ticks behind
+[30Dec2024 01:57:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Chicken]
+[30Dec2024 01:57:48.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Chicken]
+[30Dec2024 01:57:58.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[30Dec2024 01:58:51.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.240.251.101:41537] logged in with entity id 94691 at (2776.7379647290268, 64.0, 2890.712577954768)
+[30Dec2024 01:58:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[30Dec2024 01:58:51.382] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[30Dec2024 01:58:58.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[30Dec2024 01:59:33.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga fell from a high place
+[30Dec2024 01:59:38.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[30Dec2024 01:59:42.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 0.5508713884288454,-10.048676949766616,-0.09085068537931917
+[30Dec2024 02:00:04.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10925ms or 218 ticks behind
+[30Dec2024 02:00:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:portal:P:43:128:-10:2:false:0:Internal-the-nether-waypoints
+[30Dec2024 02:00:23.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4419ms or 88 ticks behind
+[30Dec2024 02:00:41.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[30Dec2024 02:01:01.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[30Dec2024 02:01:25.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8664ms or 173 ticks behind
+[30Dec2024 02:01:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[30Dec2024 02:01:46.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6443ms or 128 ticks behind
+[30Dec2024 02:01:50.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
