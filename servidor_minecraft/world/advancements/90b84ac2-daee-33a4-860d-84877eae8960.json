@@ -4075,6 +4075,7 @@
       "minecraft:magma_cube": "2024-12-29 01:33:46 +0000",
       "minecraft:spider": "2024-12-23 15:05:49 +0000",
       "minecraft:creeper": "2024-12-23 22:42:39 +0000",
+      "minecraft:phantom": "2024-12-30 00:37:50 +0000",
       "minecraft:wither_skeleton": "2024-12-29 01:36:02 +0000",
       "minecraft:cave_spider": "2024-12-25 17:01:27 +0000",
       "minecraft:piglin": "2024-12-28 23:03:46 +0000",
@@ -10045,6 +10046,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-30 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-30 00:37:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2024-12-30 00:36:16 +0000"
@@ -10066,6 +10079,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-30 00:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2024-12-30 00:37:50 +0000"
     },
     "done": true
   },
