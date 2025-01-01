@@ -12142,6 +12142,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-01 01:02:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-01 01:02:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-01-01 00:56:24 +0000"

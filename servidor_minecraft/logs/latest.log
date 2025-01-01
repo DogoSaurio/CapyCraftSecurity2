@@ -1097,3 +1097,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jan2025 00:50:07.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
 [01Jan2025 00:50:14.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 12.929528728743207,-3.7838333878204935,13.518260361950524
 [01Jan2025 00:55:39.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[01Jan2025 01:03:57.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[01Jan2025 01:03:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[01Jan2025 01:04:08.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[01Jan2025 01:04:46.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -9.544089933561736,8.71755784362206,-13.430345483121854
+[01Jan2025 01:04:46.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Jan2025 01:04:52.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -18.430486264007413,-2.061205456838465,-2.611221354982602
