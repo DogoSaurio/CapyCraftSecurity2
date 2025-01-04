@@ -19060,3 +19060,330 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 22:41:36.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -7.620865956888991,-1.5160865627756266,10.379860494094174
 [04Jan2025 22:41:36.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -8.112101206196797,-1.5160865627756266,11.052807108324771
 [04Jan2025 22:41:36.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -8.607673127381787,-1.5160865627756266,11.731804366132366
+[04Jan2025 22:41:43.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.0956164331316813,0.0,9.612493446429369
+[04Jan2025 22:41:43.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.0243184961794896,0.0,10.430952590997208
+[04Jan2025 22:41:43.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -2.8813850693030645,0.0,11.224644317562309
+[04Jan2025 22:41:43.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -2.6712736387071914,0.0,11.991696530150307
+[04Jan2025 22:41:43.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -2.402451048242483,0.0,12.735466765344711
+[04Jan2025 22:41:43.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -2.0823170150093233,0.0,13.45888938939953
+[04Jan2025 22:41:43.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.7173386256970389,0.0,14.164528932915744
+[04Jan2025 22:41:43.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.3103558249945877,0.0,14.851230249272419
+[04Jan2025 22:41:43.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -0.8607845324374352,0.0,15.513274236120537
+[04Jan2025 22:41:43.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -0.3720982512331261,0.0,16.1507951921634
+[04Jan2025 22:41:43.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 0.1507731236712857,0.0,16.76688390100685
+[04Jan2025 22:41:43.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 0.7017867837428753,0.0,17.366971765697258
+[04Jan2025 22:41:43.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 1.2722696151822106,0.0,17.96026270452103
+[04Jan2025 22:41:43.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 1.856618276790698,0.0,18.551499758010436
+[04Jan2025 22:41:43.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 2.4515393114446624,0.0,19.142726572345452
+[04Jan2025 22:41:43.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 3.0529153363241335,0.0,19.736978556019267
+[04Jan2025 22:41:43.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 3.6587034496037063,0.0,20.335145353629173
+[04Jan2025 22:41:43.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 4.266257343331461,0.0,20.938805827426165
+[04Jan2025 22:41:43.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 4.874285266334425,0.0,21.54828671334502
+[04Jan2025 22:41:43.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.481867299160683,0.0,22.16365519190839
+[04Jan2025 22:41:43.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.087974729457812,0.0,22.785155655498215
+[04Jan2025 22:41:43.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.692351029997553,0.0,23.412410151554297
+[04Jan2025 22:41:43.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.294996452815667,0.0,24.04488647020429
+[04Jan2025 22:41:43.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.896129150738659,0.0,24.681926474050897
+[04Jan2025 22:41:43.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.495274863995348,0.0,25.323537669783946
+[04Jan2025 22:41:43.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.089979171002199,0.0,25.971421885804432
+[04Jan2025 22:41:43.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.669818628250482,0.0,26.6326961889406
+[04Jan2025 22:41:43.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.218062828792881,0.0,27.315143340940836
+[04Jan2025 22:41:43.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 13.818422437757931,0.0,19.242406729484514
+[04Jan2025 22:41:43.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.27264845100109,0.0,19.97138313654392
+[04Jan2025 22:41:43.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.687606831839162,0.0,20.719486830715937
+[04Jan2025 22:41:46.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 22:41:48.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 22:41:49.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:41:52.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.117118248059455,0.0,9.289359403286824
+[04Jan2025 22:41:52.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.653260635995821,0.0,9.982718491708795
+[04Jan2025 22:41:52.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.207212281515353,0.0,10.66186279139282
+[04Jan2025 22:41:52.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.776728577831591,0.0,11.32858387681199
+[04Jan2025 22:41:52.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.359847819317906,0.0,11.98444751963973
+[04Jan2025 22:41:52.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.954855545789542,0.0,12.630822148021366
+[04Jan2025 22:41:52.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.560253380688494,0.0,13.268903718954164
+[04Jan2025 22:41:52.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.174731796777053,0.0,13.899737455853199
+[04Jan2025 22:41:52.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.797146314333474,0.0,14.524236846402232
+[04Jan2025 22:41:52.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.426496699230654,0.0,15.143200245992489
+[04Jan2025 22:41:52.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.061908782804892,0.0,15.757325388531058
+[04Jan2025 22:41:52.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.702618573074744,0.0,16.367222068365777
+[04Jan2025 22:41:52.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 12.347958368517823,0.0,16.973423223831503
+[04Jan2025 22:41:52.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 12.997344622010644,0.0,17.576394623871124
+[04Jan2025 22:41:52.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 13.649106173548034,0.0,18.1778768351831
+[04Jan2025 22:41:52.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.301964930974066,0.0,18.779149430476537
+[04Jan2025 22:41:52.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.95417690765089,0.0,19.381969976443145
+[04Jan2025 22:41:53.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.002836092446273,0.0,11.408097186455166
+[04Jan2025 22:41:53.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.650508703500407,0.0,12.017039595910887
+[04Jan2025 22:41:53.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 12.29613624123408,0.0,12.628673477296559
+[04Jan2025 22:41:53.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 12.939976458416197,0.0,13.242659608377323
+[04Jan2025 22:41:53.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 13.582254621699292,0.0,13.85870152111653
+[04Jan2025 22:41:53.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.223167606038146,0.0,14.476540113109706
+[04Jan2025 22:41:53.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.866145274554924,0.0,15.092545519876467
+[04Jan2025 22:41:53.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 15.516277059238064,0.0,15.700673310981813
+[04Jan2025 22:41:53.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 16.184710339189223,0.0,16.283109786424063
+[04Jan2025 22:41:53.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.3211819816106072
+[04Jan2025 22:41:53.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.5152388624444894
+[04Jan2025 22:41:53.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.429452023410704
+[04Jan2025 22:41:53.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9760642802770008
+[04Jan2025 22:41:53.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.5951141874722339
+[04Jan2025 22:41:54.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[04Jan2025 22:41:54.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[04Jan2025 22:41:58.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wizards:village/snowy/wizard_tower_2
+[04Jan2025 22:41:58.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paladins:village/snowy/sanctuary
+[04Jan2025 22:42:00.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21714ms or 434 ticks behind
+[04Jan2025 22:42:01.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.2775429781981984
+[04Jan2025 22:42:01.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.6364672495189154
+[04Jan2025 22:42:01.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.8285204709247012
+[04Jan2025 22:42:02.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9312843205707964
+[04Jan2025 22:42:02.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9862712076262881
+[04Jan2025 22:42:02.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.0156935945694272
+[04Jan2025 22:42:04.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.9021281612880045,2.9064892988942432,-6.813916091272745
+[04Jan2025 22:42:04.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.335268705213792,2.531744404211679,-6.902015718244002
+[04Jan2025 22:42:04.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.767022787369484,2.095007398858442,-6.962349173717598
+[04Jan2025 22:42:04.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.197347351868586,2.0,-6.9974464730840396
+[04Jan2025 22:42:04.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.027343578186361,2.0,-6.826362915032064
+[04Jan2025 22:42:04.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.90043755102127,2.0,-6.498055737776156
+[04Jan2025 22:42:04.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.934816555115987,2.5760000529289186,-5.90655775134627
+[04Jan2025 22:42:17.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[04Jan2025 22:42:45.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.057506967153728,-1.0,-9.104974066861416
+[04Jan2025 22:42:45.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.439991498487274,-1.0,-9.790417911371321
+[04Jan2025 22:42:45.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.835276092451835,-1.0,-10.48393743581721
+[04Jan2025 22:42:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.243949374585611,-1.0,-11.1830558912975
+[04Jan2025 22:42:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 6.664573330878795,-1.0,-11.886897596451433
+[04Jan2025 22:42:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.095641746701375,-1.0,-12.594867251995936
+[04Jan2025 22:42:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.535838244622596,-1.0,-13.306444587761519
+[04Jan2025 22:42:45.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 7.984012358098283,-1.0,-14.021174906326337
+[04Jan2025 22:42:45.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.439158620733792,-1.0,-14.738660818492406
+[04Jan2025 22:42:45.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.900398291051687,-1.0,-15.458555020388644
+[04Jan2025 22:42:45.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[04Jan2025 22:42:45.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 5.627234213075724,0.0,-9.198926681335422
+[04Jan2025 22:42:52.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.223490871432546,0.0,6.573943085699057
+[04Jan2025 22:42:52.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 8.927217549028697,0.0,7.113110607414228
+[04Jan2025 22:42:52.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.630921296708749,0.0,7.6534828641190416
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.333695732251357,0.0,8.196058278050657
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.0349116267343,0.0,8.741480804233106
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 11.734202731607894,0.0,9.290073486261974
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 12.43181163956865,0.0,9.841436770517873
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 13.127950367910884,0.0,10.395221461503297
+[04Jan2025 22:42:52.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 13.82224315342691,0.0,10.951791582153817
+[04Jan2025 22:42:52.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 14.752457415470928,0.8448000862121603,11.714457626423552
+[04Jan2025 22:42:52.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 15.602185558479903,1.5793141033059754,12.413405877537855
+[04Jan2025 22:42:52.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 16.396556076692733,2.2079093775570584,13.06932685312529
+[04Jan2025 22:42:52.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 9.62111722852886,2.734780289202149,7.6516167388209055
+[04Jan2025 22:42:52.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.321933620276454,3.163955121099022,8.235125029333858
+[04Jan2025 22:42:52.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 10.983420126524805,3.49930263617955,8.788191235459124
+[04Jan2025 22:43:05.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
+[04Jan2025 22:43:14.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[04Jan2025 22:43:14.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[04Jan2025 22:43:14.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro moved too quickly! 2.676771746027377,0.9031272476744903,9.707369438128126
+[04Jan2025 22:43:25.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5181ms or 103 ticks behind
+[04Jan2025 22:43:43.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[04Jan2025 22:44:01.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:44:04.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 22:44:07.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[04Jan2025 22:44:08.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 2.1349723369319378,0.0,9.985838150757559
+[04Jan2025 22:44:08.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 1.7820005336802467,0.0,10.956088479870914
+[04Jan2025 22:44:08.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 1.3044187071085247,0.0,11.871159710331426
+[04Jan2025 22:44:08.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 0.7222893176849396,0.0,12.72609367224618
+[04Jan2025 22:44:08.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! 0.06190469531141218,0.0,13.52760070477143
+[04Jan2025 22:44:08.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -0.6527163137378551,0.0,14.287514205606499
+[04Jan2025 22:44:08.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.4040645876787607,0.0,15.0165601910536
+[04Jan2025 22:44:08.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,0.0,15.728133400161823
+[04Jan2025 22:44:08.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,1.0,16.435151602134624
+[04Jan2025 22:44:08.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,2.0,17.15293351393791
+[04Jan2025 22:44:08.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,2.0,17.90314604397372
+[04Jan2025 22:44:08.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,3.0,18.943458147534102
+[04Jan2025 22:44:08.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,4.0,19.543373385008522
+[04Jan2025 22:44:08.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,4.0,19.94818823134267
+[04Jan2025 22:44:08.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,4.0,19.94818823134267
+[04Jan2025 22:44:08.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -1.547492416239919,4.0,19.94818823134267
+[04Jan2025 22:44:08.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.895345379240581,4.0,10.97626457720628
+[04Jan2025 22:44:08.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.895345379240581,4.0,10.97626457720628
+[04Jan2025 22:44:08.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.895345379240581,4.0,10.97626457720628
+[04Jan2025 22:44:08.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -3.895345379240581,4.0,10.97626457720628
+[04Jan2025 22:44:11.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.5279963621200603
+[04Jan2025 22:44:11.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.4435739008928403
+[04Jan2025 22:44:11.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.8457686641656892
+[04Jan2025 22:44:11.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.581302042025913
+[04Jan2025 22:44:11.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 2.5125256278371277
+[04Jan2025 22:44:12.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.48288904777632524
+[04Jan2025 22:44:14.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.28264745804708014
+[04Jan2025 22:44:14.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.1639757342407506
+[04Jan2025 22:44:14.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.9991273425153224
+[04Jan2025 22:44:14.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 2.8448925553411337
+[04Jan2025 22:44:20.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.3936338020833148
+[04Jan2025 22:44:20.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 3.470499014238194
+[04Jan2025 22:44:20.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 3.470499014238194
+[04Jan2025 22:44:20.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 3.470499014238194
+[04Jan2025 22:44:21.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.3687333524139831
+[04Jan2025 22:44:21.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.2461895914522074
+[04Jan2025 22:44:21.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 2.205621046768897
+[04Jan2025 22:44:21.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 3.208969341011425
+[04Jan2025 22:44:22.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9599583149293949
+[04Jan2025 22:44:22.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.9993794937788607
+[04Jan2025 22:44:22.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9792601962668641
+[04Jan2025 22:44:22.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.9828283624524374
+[04Jan2025 22:44:22.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 2.0165352391023816
+[04Jan2025 22:44:22.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.8663692884156262
+[04Jan2025 22:44:22.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7916073670942296
+[04Jan2025 22:44:22.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7516037535870055
+[04Jan2025 22:44:22.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.5904362654074293
+[04Jan2025 22:44:22.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7187451560831732
+[04Jan2025 22:44:22.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.5737488855898514
+[04Jan2025 22:44:22.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7224614114558108
+[04Jan2025 22:44:22.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7240433148378997
+[04Jan2025 22:44:22.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7299209206080377
+[04Jan2025 22:44:22.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.7597598044594633
+[04Jan2025 22:44:22.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.6601208627294608
+[04Jan2025 22:44:22.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.8402238057434488
+[04Jan2025 22:44:24.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/87016, l='ServerLevel[world]', x=-149.95, y=78.03, z=697.85]
+[04Jan2025 22:45:49.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 13.854131044423696,-0.8829072845376658,12.25296244777259
+[04Jan2025 22:45:50.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Jan2025 22:45:53.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2.1830839099491186,0.3783279004476441,18.719797531750103
+[04Jan2025 22:45:57.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2.642299140528735,2.789556041237276,17.135048965504268
+[04Jan2025 22:45:58.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 22:46:03.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 9.887339970936523,5.10650326617106,14.079336237192365
+[04Jan2025 22:46:07.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 11.563679837783525,-4.371874303464693,12.407605005114874
+[04Jan2025 22:46:14.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8760ms or 175 ticks behind
+[04Jan2025 22:46:15.812] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [63bfd8c8-a013-425b-86bb-c8663196f88f]
+[04Jan2025 22:46:17.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [63bfd8c8-a013-425b-86bb-c8663196f88f]
+[04Jan2025 22:46:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was doomed to fall by Skeleton
+[04Jan2025 22:46:19.643] [Server thread/DEBUG] [twilightforest/]: Player Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5) respawned and received items held in storage
+[04Jan2025 22:46:24.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 17.378697541034285,4.43022915257589,0.038630043471812314
+[04Jan2025 22:46:28.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -3.3220429822894175,1.861392551591635,17.520912867769766
+[04Jan2025 22:46:37.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8633ms or 172 ticks behind
+[04Jan2025 22:47:22.727] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[04Jan2025 22:47:22.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[04Jan2025 22:47:22.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[04Jan2025 22:47:22.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[04Jan2025 22:47:22.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[04Jan2025 22:47:22.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[04Jan2025 22:47:22.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[04Jan2025 22:47:22.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[04Jan2025 22:47:22.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[04Jan2025 22:47:22.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[04Jan2025 22:47:22.732] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[04Jan2025 22:47:22.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 22:47:22.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 22:47:43.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -9.892305120155129,12.972169129509624,6.458356271265586
+[04Jan2025 22:47:49.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -14.89367213778263,-3.3190927030793915,9.78677664994467
+[04Jan2025 22:47:52.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[04Jan2025 22:47:56.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 22:48:10.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -17.88840775636345,-1.784133217142724,-5.071100849866468
+[04Jan2025 22:48:14.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7459ms or 149 ticks behind
+[04Jan2025 22:48:29.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 4.99275246121087,-3.0554333466140235,17.08269798548281
+[04Jan2025 22:48:33.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
+[04Jan2025 22:48:36.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 22:48:46.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wizards:village/snowy/wizard_tower_2
+[04Jan2025 22:48:46.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paladins:village/snowy/sanctuary
+[04Jan2025 22:48:50.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -13.071553182639168,12.10000098703371,0.048666875214507854
+[04Jan2025 22:49:09.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 22:49:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Free Willy]
+[04Jan2025 22:50:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -9.509141457548026,1.0523585130331128,4.606028401030471
+[04Jan2025 22:50:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -10.293981967488335,1.4330211855259023,5.11125101326661
+[04Jan2025 22:50:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -11.034267724648103,1.7217776218079734,5.5895874888269645
+[04Jan2025 22:50:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -11.734377804273677,1.922267307115348,6.044578118907225
+[04Jan2025 22:50:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -12.395891340616956,2.0379856031367467,6.482283729880578
+[04Jan2025 22:50:08.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -13.020636445875496,2.0722894553033484,6.907118024045303
+[04Jan2025 22:50:08.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -13.608196426856878,2.0284028740699966,7.324405219186929
+[04Jan2025 22:50:08.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -14.158520238815854,1.9094221991377935,7.737861679797106
+[04Jan2025 22:50:08.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -14.67454645298146,1.7183211552135589,8.148577014789566
+[04Jan2025 22:50:08.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -15.159877278092452,1.4579557075612968,8.556913028581562
+[04Jan2025 22:50:08.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -15.620210513019927,1.1310687252739484,8.961612310017017
+[04Jan2025 22:50:08.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -16.0599249709674,0.7402944598796424,9.361880309271896
+[04Jan2025 22:50:08.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -16.48135715163845,0.2881628465952346,9.758117993253677
+[04Jan2025 22:50:08.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -8.212347681574172,-0.5760000529289258,6.079951629828088
+[04Jan2025 22:50:08.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -8.868799606885503,-0.5760000529289258,6.821240147430558
+[04Jan2025 22:50:08.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -9.50262230339034,-0.5760000529289258,7.6182076322970715
+[04Jan2025 22:50:12.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:50:16.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -7.715144876916298,0.0,6.77953618309914
+[04Jan2025 22:50:16.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -8.418310857574284,0.0,7.5637784775777845
+[04Jan2025 22:50:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -9.106646724689341,0.0,8.36117071486342
+[04Jan2025 22:50:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -9.780077858377524,0.0,9.171250463630258
+[04Jan2025 22:50:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -10.44553376637731,-0.07683200149536162,9.988119046828956
+[04Jan2025 22:50:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -10.831815222212413,-0.2274534586630068,10.463788931133308
+[04Jan2025 22:50:16.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -11.20559585022633,-0.4489423104376016,10.92727001814012
+[04Jan2025 22:50:16.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -11.565164182868216,-0.7384922093173572,11.381990234566274
+[04Jan2025 22:50:16.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -11.910743731034586,-1.0,11.829701774234763
+[04Jan2025 22:50:16.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -12.218931580971287,-1.0,12.228970936817973
+[04Jan2025 22:50:16.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -12.383836754869577,-1.0,12.442611905147942
+[04Jan2025 22:50:16.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -12.472074225568093,-1.0,12.556926927759946
+[04Jan2025 22:50:16.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved too quickly! -12.519288336873501,-1.0,12.618094617163933
+[04Jan2025 22:50:16.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[04Jan2025 22:50:16.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[04Jan2025 22:50:17.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:51:34.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [ca1c7995-38fd-4e7b-b0d7-26ec385a88b3]
+[04Jan2025 22:51:36.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [ca1c7995-38fd-4e7b-b0d7-26ec385a88b3]
+[04Jan2025 22:51:52.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 10.520659335374035,0.4703460716737311,-14.233894679059233
+[04Jan2025 22:51:54.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jan2025 22:51:59.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 8.565639784494863,4.603131163430987,-14.494789121018641

@@ -6965,6 +6965,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-04 22:32:47 +0000"
@@ -7136,6 +7142,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-04 22:17:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:23 +0000"
     },
     "done": true
   },
