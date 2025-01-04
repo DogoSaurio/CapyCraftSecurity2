@@ -371,6 +371,7 @@
       "visceral_heap": "2024-12-30 01:38:55 +0000",
       "aspen_glade": "2024-12-28 04:31:46 +0000",
       "dune_beach": "2024-12-25 22:46:58 +0000",
+      "seasonal_forest": "2025-01-04 23:23:41 +0000",
       "pasture": "2024-12-25 23:15:42 +0000",
       "lavender_field": "2024-12-25 23:15:27 +0000",
       "fir_clearing": "2024-12-23 01:52:38 +0000",
@@ -12302,6 +12303,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
       "requirement": "2025-01-04 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-04 23:25:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-04 23:25:33 +0000"
     },
     "done": true
   },
