@@ -1136,3 +1136,67 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 21:28:13.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.113184771669125,-0.6827372144449839,14.923903390663554
 [04Jan2025 21:28:17.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.314777649836287,-0.2981673872745034,15.221391541765797
 [04Jan2025 21:28:21.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.314777666501755,-0.29816738714049507,15.221391566358307
+[04Jan2025 21:28:24.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.314777666634882,-0.2981673870692987,15.221391566554075
+[04Jan2025 21:28:31.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 9.362821733449266,1.4736116743090975,14.917516189965454
+[04Jan2025 21:28:39.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 8.946222179112283,6.867992544941444,14.289934408836643
+[04Jan2025 21:28:40.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33425ms or 668 ticks behind
+[04Jan2025 21:28:42.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 9.3540994481221,0.5757388969732915,15.674570608005979
+[04Jan2025 21:28:47.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 9.378847296945423,-1.6763173298039362,14.815369878934803
+[04Jan2025 21:28:51.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.871720173751754,-0.6942679108818481,14.923284485717204
+[04Jan2025 21:28:56.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 11.288905763173915,-0.32156239336521253,14.728519542323284
+[04Jan2025 21:28:57.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.548489418951561,0.49257987924468694,14.41637385415629
+[04Jan2025 21:28:58.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.43915405187667,-0.05193264209259496,15.060443717364251
+[04Jan2025 21:29:00.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.411849658520893,-0.05258246887279938,15.021052383420624
+[04Jan2025 21:29:06.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.31972168885089,-0.23390274477537787,14.888140450980131
+[04Jan2025 21:29:11.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.43916025081446,-0.05193264787112639,15.060453051977902
+[04Jan2025 21:29:15.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.527699215421606,-1.1108127620636026,15.360555966007325
+[04Jan2025 21:29:17.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22478ms or 449 ticks behind
+[04Jan2025 21:29:20.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.346162454096799,-0.5779411419731844,15.267705045967602
+[04Jan2025 21:29:25.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.001625847360714,-1.8520666299032627,14.192545290322073
+[04Jan2025 21:29:42.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9655ms or 193 ticks behind
+[04Jan2025 21:30:07.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[04Jan2025 21:32:24.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has completed the challenge [Necronomicon]
+[04Jan2025 21:38:56.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[04Jan2025 21:39:41.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=55, z=-111} BlockPos{x=287, y=54, z=-111}
+[04Jan2025 21:40:15.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.122.70.63:33523] logged in with entity id 43461 at (-1089.2125368321508, -33.0, -2184.510686725689)
+[04Jan2025 21:40:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[04Jan2025 21:40:15.420] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[04Jan2025 21:40:18.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Jan2025 21:40:38.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5288ms or 105 ticks behind
+[04Jan2025 21:40:59.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6004ms or 120 ticks behind
+[04Jan2025 21:41:20.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[04Jan2025 21:41:42.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6939ms or 138 ticks behind
+[04Jan2025 21:42:07.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9450ms or 189 ticks behind
+[04Jan2025 21:42:25.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
+[04Jan2025 21:42:45.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[04Jan2025 21:43:03.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
+[04Jan2025 21:43:11.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.180892711786782,3.444551614823709,15.2644552302786
+[04Jan2025 21:43:15.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.59304630059637,2.657017500827962,15.220003903463976
+[04Jan2025 21:43:19.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 8.621053355431627,9.194364150233213,13.261324504054073
+[04Jan2025 21:43:24.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.831781193603433,-0.8141777372749459,15.654381613685018
+[04Jan2025 21:43:29.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.51770388405771,-0.12872996380085056,15.59787945162202
+[04Jan2025 21:43:34.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.197846085590186,0.8918399084089401,14.850539533391611
+[04Jan2025 21:43:38.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.578973966404646,1.1592845611346547,15.465895898139934
+[04Jan2025 21:43:43.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.413012685643025,0.7453287064836331,15.622290947022975
+[04Jan2025 21:43:44.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25289ms or 505 ticks behind
+[04Jan2025 21:43:46.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.472942865014716,-0.791395560468743,15.750677682857031
+[04Jan2025 21:43:51.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.729972790513955,-0.347119869052392,15.615890562369259
+[04Jan2025 21:43:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.873469973631018,-1.7799045287710555,15.84619298518487
+[04Jan2025 21:44:00.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 10.215568886163283,0.059105163338614375,15.007336364685216
+[04Jan2025 21:44:02.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 10.11161381090642,0.22366047604475625,15.234069229544048
+[04Jan2025 21:44:07.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.825068512742575,-0.13429160096248438,14.8023625810049
+[04Jan2025 21:44:11.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.964861538765717,-1.4530198063710031,14.927667884836751
+[04Jan2025 21:44:14.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 10.419114178530918,-0.7723676164987978,15.25852464626223
+[04Jan2025 21:44:17.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.713801684051788,-1.3078440919418597,15.069310069329731
+[04Jan2025 21:44:24.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.778687556996992,-1.7498770846463856,15.60305330175595
+[04Jan2025 21:44:26.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27550ms or 551 ticks behind
+[04Jan2025 21:44:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> el que lee es puto jijijiji
+[04Jan2025 21:44:30.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 9.048154834409864,-3.9513077341260328,14.693549050755905
+[04Jan2025 21:44:35.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 10.490956184541083,-0.23758960340818192,15.08742045924248
+[04Jan2025 21:44:40.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 10.527325266757316,-1.1837847117023728,15.33205503307704
+[04Jan2025 21:44:51.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 8.33068647852383,-2.2176796046064595,16.27113366000897
+[04Jan2025 21:44:56.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15134ms or 302 ticks behind
+[04Jan2025 21:45:21.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2815, y=65, z=2906} BlockPos{x=2814, y=63, z=2906}
+[04Jan2025 21:45:27.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Jan2025 21:45:47.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[04Jan2025 21:46:32.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Premium!]

@@ -11303,5 +11303,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-01-04 21:33:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

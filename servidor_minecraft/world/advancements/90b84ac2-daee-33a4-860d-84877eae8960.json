@@ -375,6 +375,7 @@
       "floodplain": "2025-01-04 21:03:37 +0000",
       "highland": "2025-01-01 00:21:27 +0000",
       "cold_desert": "2024-12-23 02:03:06 +0000",
+      "old_growth_woodland": "2025-01-04 21:27:58 +0000",
       "maple_woods": "2024-12-28 23:36:42 +0000",
       "crystalline_chasm": "2024-12-30 17:10:04 +0000",
       "withered_abyss": "2024-12-29 01:35:12 +0000",
@@ -11179,6 +11180,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-04 21:04:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-01-04 21:32:24 +0000"
     },
     "done": true
   },
