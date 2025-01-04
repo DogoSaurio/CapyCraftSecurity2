@@ -1594,3 +1594,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 22:51:52.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 10.520659335374035,0.4703460716737311,-14.233894679059233
 [04Jan2025 22:51:54.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Jan2025 22:51:59.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 8.565639784494863,4.603131163430987,-14.494789121018641
+[04Jan2025 22:52:06.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 9.950328460650553,-2.661086609316058,-15.52407045307087
+[04Jan2025 22:52:24.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15593ms or 311 ticks behind
+[04Jan2025 22:53:36.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.3010380255998655
+[04Jan2025 22:53:36.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.8107838614471348
+[04Jan2025 22:53:37.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.4784879105767459
+[04Jan2025 22:53:37.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.450878278561646
+[04Jan2025 22:53:37.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.44711033595396543
+[04Jan2025 22:53:37.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.4560996059962008
+[04Jan2025 22:53:37.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 2.472816925200874
+[04Jan2025 22:53:39.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.5308111332416843
+[04Jan2025 22:53:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 0.5598899245147777
+[04Jan2025 22:53:39.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.0
+[04Jan2025 22:53:39.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Kuro) moved wrongly! 1.0
+[04Jan2025 22:53:52.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
+[04Jan2025 22:53:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[04Jan2025 22:54:12.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.232.156.208:55917] logged in with entity id 108845 at (287.2562483940312, 65.25220334025373, 62.06449033956393)
+[04Jan2025 22:54:12.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[04Jan2025 22:54:12.826] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[04Jan2025 22:56:49.216] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: aw/minerales.nbt
+[04Jan2025 23:00:30.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> luzbel puto
+[04Jan2025 23:00:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> jijijiji
+[04Jan2025 23:00:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> Mantengo relaciones carnales con tu papa
+[04Jan2025 23:01:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> que puto me saliste

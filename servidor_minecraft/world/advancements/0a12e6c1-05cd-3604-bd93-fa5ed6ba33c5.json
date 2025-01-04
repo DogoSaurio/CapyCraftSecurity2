@@ -5529,6 +5529,7 @@
       "minecraft:skeleton": "2024-12-23 14:55:00 +0000",
       "minecraft:magma_cube": "2024-12-28 00:24:24 +0000",
       "minecraft:piglin_brute": "2024-12-28 00:44:36 +0000",
+      "minecraft:spider": "2025-01-04 22:51:37 +0000",
       "minecraft:wither_skeleton": "2024-12-28 00:31:04 +0000",
       "minecraft:piglin": "2024-12-28 00:41:55 +0000",
       "minecraft:zombie": "2024-12-23 14:24:15 +0000"
@@ -6947,6 +6948,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-04 22:17:27 +0000"
@@ -6956,6 +6963,12 @@
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2025-01-04 22:32:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
     },
     "done": true
   },
@@ -6971,6 +6984,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-04 22:32:47 +0000"
@@ -6983,9 +7008,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-01-04 22:17:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
     },
     "done": true
   },
@@ -7010,6 +7047,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-04 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
     },
     "done": true
   },
@@ -7079,6 +7122,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-04 22:08:33 +0000"
@@ -7088,6 +7137,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-01-04 22:17:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
     },
     "done": true
   },
@@ -7115,6 +7170,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-04 22:17:33 +0000"
@@ -7130,6 +7191,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-01-04 22:17:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_string": "2025-01-04 22:51:40 +0000"
     },
     "done": true
   },
