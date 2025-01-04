@@ -12153,5 +12153,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-01-04 21:18:52 +0000",
+      "azure": "2025-01-04 21:20:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
