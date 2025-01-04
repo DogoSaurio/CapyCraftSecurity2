@@ -1270,3 +1270,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 22:18:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Necronomicon]
 [04Jan2025 22:18:27.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17769ms or 355 ticks behind
 [04Jan2025 22:18:49.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[04Jan2025 22:21:02.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Jan2025 22:21:22.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[04Jan2025 22:21:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was slain by Nucaraga
+[04Jan2025 22:23:06.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[04Jan2025 22:23:23.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[04Jan2025 22:24:17.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[04Jan2025 22:24:34.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[04Jan2025 22:24:56.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [A Shower "Experience"]
+[04Jan2025 22:28:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [And so a Quest Begins!]
+[04Jan2025 22:31:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Enchanter]
