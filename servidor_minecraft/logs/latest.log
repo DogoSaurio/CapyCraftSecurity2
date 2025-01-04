@@ -1617,3 +1617,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 23:00:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> jijijiji
 [04Jan2025 23:00:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> Mantengo relaciones carnales con tu papa
 [04Jan2025 23:01:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> que puto me saliste
+[04Jan2025 23:02:40.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.122.70.63:34605] logged in with entity id 118663 at (261.69556217244815, 63.0, -47.217208643859934)
+[04Jan2025 23:02:40.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[04Jan2025 23:02:40.494] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[04Jan2025 23:02:41.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Jan2025 23:02:58.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[04Jan2025 23:03:48.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[04Jan2025 23:03:48.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[04Jan2025 23:03:59.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.184.32.72:44621] logged in with entity id 120941 at (2795.567181698417, 64.0, 2915.8637759864678)
+[04Jan2025 23:03:59.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[04Jan2025 23:03:59.770] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[04Jan2025 23:04:03.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Jan2025 23:04:29.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11130ms or 222 ticks behind
+[04Jan2025 23:05:00.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jan2025 23:05:24.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04Jan2025 23:06:01.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 23:06:20.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Jan2025 23:06:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> fafa
+[04Jan2025 23:06:39.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3815ms or 76 ticks behind
+[04Jan2025 23:07:25.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Jan2025 23:08:30.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[04Jan2025 23:10:10.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Jan2025 23:10:32.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6973ms or 139 ticks behind
+[04Jan2025 23:10:45.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 17.906105979154688,4.587827104244454,3.1332958296041333
+[04Jan2025 23:10:45.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 10.256705500088856,-0.33319999363422426,-2.29990012503724
+[04Jan2025 23:11:02.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15579ms or 311 ticks behind
+[04Jan2025 23:11:23.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[04Jan2025 23:11:37.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -2.098554251323435,0.43583530669913273,17.56336243270053
+[04Jan2025 23:11:45.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7889ms or 157 ticks behind
+[04Jan2025 23:11:49.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 13.565851192620414,-7.120692601475312,10.011854014301093
+[04Jan2025 23:11:49.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -18.18038291912876,-3.8635104233236035,-3.683173144575207
+[04Jan2025 23:12:12.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11428ms or 228 ticks behind
+[04Jan2025 23:12:45.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 12.027895656207306,2.813188414900168,12.68398255056087
+[04Jan2025 23:12:45.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Jan2025 23:12:51.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 11.540849455736065,-0.3609475091679144,13.575857088438283
+[04Jan2025 23:12:56.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! 12.67475691179618,1.565403727757996,12.979761149449814
