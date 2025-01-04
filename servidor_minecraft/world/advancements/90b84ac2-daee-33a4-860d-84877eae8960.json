@@ -10717,12 +10717,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/light_blue_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
@@ -10735,21 +10729,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -10771,21 +10753,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -10825,12 +10795,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematicannon": {
-    "criteria": {
-      "has_item": "2025-01-01 00:17:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-01 00:17:25 +0000"
@@ -10852,18 +10816,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -10897,12 +10849,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/light_blue_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
@@ -10912,12 +10858,6 @@
   "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -10933,51 +10873,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_candle": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_bath": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-01-01 01:00:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -10999,18 +10903,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_table": {
-    "criteria": {
-      "has_item": "2025-01-01 00:17:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
@@ -11023,33 +10915,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/light_blue_toilet": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -11065,12 +10933,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
@@ -11083,33 +10945,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-01 00:17:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-01 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-01-01 00:17:27 +0000"
     },
     "done": true
   },
@@ -11158,6 +11002,162 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-01 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_toilet": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-01 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-01-01 00:17:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-01-01 00:17:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-01 01:00:56 +0000"
     },
     "done": true
   },
