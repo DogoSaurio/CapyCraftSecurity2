@@ -1034,3 +1034,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 15:25:22.290] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
 [04Jan2025 15:25:23.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
 [04Jan2025 15:25:47.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8713ms or 174 ticks behind
+[04Jan2025 15:52:09.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[04Jan2025 15:52:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[04Jan2025 15:52:40.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.81.186.30:53735] logged in with entity id 8120 at (2773.6371130540692, 64.0, 2881.053496590763)
+[04Jan2025 15:52:41.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[04Jan2025 15:52:41.047] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[04Jan2025 15:55:11.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.232.156.208:56811] logged in with entity id 9065 at (307.56491987640203, 63.0, 77.86931333486675)
+[04Jan2025 15:55:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[04Jan2025 15:55:11.421] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[04Jan2025 15:55:16.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
