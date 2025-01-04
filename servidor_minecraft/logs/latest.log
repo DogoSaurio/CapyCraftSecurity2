@@ -1013,3 +1013,96 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 20:56:01.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
 [04Jan2025 20:56:26.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [04Jan2025 20:56:43.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jan2025 20:57:06.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7846ms or 156 ticks behind
+[04Jan2025 20:57:25.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4003ms or 80 ticks behind
+[04Jan2025 20:57:45.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04Jan2025 20:58:48.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[04Jan2025 20:58:51.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[04Jan2025 20:59:05.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[04Jan2025 20:59:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> el lauti es puto
+[04Jan2025 21:00:06.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2804, y=65, z=2869} BlockPos{x=2805, y=64, z=2869}
+[04Jan2025 21:00:23.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 21:00:54.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para que el server se mantenga vivo (admin socializando)
+[04Jan2025 21:00:55.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[04Jan2025 21:01:42.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[04Jan2025 21:01:50.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.972378395352337,-0.2346281214573196,-15.41976918928205
+[04Jan2025 21:02:02.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -8.996690628025787,-0.9825055745319702,-15.440598962371496
+[04Jan2025 21:02:07.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10038ms or 200 ticks behind
+[04Jan2025 21:02:11.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.858519813271172,0.6335929045284843,-15.355749179187683
+[04Jan2025 21:02:18.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.43175842986696,-0.2984321734774511,-14.948220137204657
+[04Jan2025 21:02:27.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.769440216441694,-1.4691718645383958,-15.48340569437255
+[04Jan2025 21:02:34.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.588984411728518,1.4056960057308316,-15.42477317402495
+[04Jan2025 21:02:39.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -5.15418152350577,14.50043900235238,-9.178562735206924
+[04Jan2025 21:02:44.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21502ms or 430 ticks behind
+[04Jan2025 21:02:46.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.783388752414112,-1.605975754096562,-14.970349039289204
+[04Jan2025 21:02:51.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -10.432561734772662,-1.9354619786052751,-15.436597880545378
+[04Jan2025 21:02:58.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -10.106255997208109,-1.5355134203193188,-14.785127211921235
+[04Jan2025 21:03:04.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -9.58753114000956,-3.248365063959767,-14.993134099415556
+[04Jan2025 21:03:10.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -10.214487160288513,-1.8331682216857388,-15.54141066113607
+[04Jan2025 21:03:17.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -10.560823955015849,-3.286465892293606,-14.513788324525194
+[04Jan2025 21:03:21.006] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_sand
+[04Jan2025 21:03:21.781] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:24.714] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:24.891] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_main
+[04Jan2025 21:03:27.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28502ms or 570 ticks behind
+[04Jan2025 21:03:27.962] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:29.965] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:30.850] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:33.511] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:03:40.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.380597475686272,9.88605299066009,-10.694294024470992
+[04Jan2025 21:03:40.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -11.131414600967219,-1.5797942967219143,-13.83308208706103
+[04Jan2025 21:03:47.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -7.573341480611134,0.004383052853711433,-16.409165816295626
+[04Jan2025 21:03:47.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -12.130879226857019,-0.9657733780372553,-13.976135164751213
+[04Jan2025 21:04:11.232] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:04:14.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31310ms or 626 ticks behind
+[04Jan2025 21:04:43.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14400ms or 288 ticks behind
+[04Jan2025 21:05:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Opposites Attract]
+[04Jan2025 21:05:14.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15667ms or 313 ticks behind
+[04Jan2025 21:05:42.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13275ms or 265 ticks behind
+[04Jan2025 21:06:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:jefe de tinta:J:-1081:-31:-2189:9:false:0:Internal-overworld-waypoints
+[04Jan2025 21:06:10.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12669ms or 253 ticks behind
+[04Jan2025 21:06:37.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12681ms or 253 ticks behind
+[04Jan2025 21:06:54.463] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:06:54.788] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:06:56.364] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:06:56.547] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[04Jan2025 21:06:57.776] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:06:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Dungeon Delving]
+[04Jan2025 21:07:01.644] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:07:01.645] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:07:01.645] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:07:05.785] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:07:09.648] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:07:11.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18568ms or 371 ticks behind
+[04Jan2025 21:07:42.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16469ms or 329 ticks behind
+[04Jan2025 21:08:12.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14401ms or 288 ticks behind
+[04Jan2025 21:08:43.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16674ms or 333 ticks behind
+[04Jan2025 21:09:12.929] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[04Jan2025 21:09:14.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16189ms or 323 ticks behind
+[04Jan2025 21:09:43.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13874ms or 277 ticks behind
+[04Jan2025 21:09:44.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Timed out
+[04Jan2025 21:09:44.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[04Jan2025 21:09:44.842] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 21:10:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Opposites Attract]
+[04Jan2025 21:10:08.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9269ms or 185 ticks behind
+[04Jan2025 21:10:27.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[04Jan2025 21:10:46.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
+[04Jan2025 21:10:48.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Dungeon Delving]
+[04Jan2025 21:10:59.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Push and Pull]
+[04Jan2025 21:11:05.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[04Jan2025 21:11:26.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[04Jan2025 21:11:38.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[04Jan2025 21:11:38.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[04Jan2025 21:11:43.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[04Jan2025 21:13:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Publicity Stunt]
+[04Jan2025 21:14:59.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Tools of the Trade]
+[04Jan2025 21:14:59.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has completed the challenge [Premium!]
+[04Jan2025 21:14:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Necronomicon]
+[04Jan2025 21:16:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para que el server se mantenga vivo (admin socializando)
+[04Jan2025 21:16:21.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 21:16:22.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 21:16:50.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[04Jan2025 21:17:16.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.184.32.72:47809] logged in with entity id 25041 at (2813.829702661326, 64.0, 2905.930306928775)
+[04Jan2025 21:17:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[04Jan2025 21:17:17.007] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[04Jan2025 21:17:20.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind

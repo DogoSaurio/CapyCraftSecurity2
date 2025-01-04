@@ -354,6 +354,7 @@
     "criteria": {
       "muskeg": "2024-12-25 22:20:56 +0000",
       "scrubland": "2024-12-25 23:14:15 +0000",
+      "floodplain": "2025-01-04 21:03:33 +0000",
       "highland": "2024-12-25 20:32:05 +0000",
       "jacaranda_glade": "2024-12-25 23:14:49 +0000",
       "jade_cliffs": "2024-12-25 23:14:57 +0000",
@@ -12142,6 +12143,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-01 00:56:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-01-01 01:02:57 +0000"
@@ -12151,12 +12158,6 @@
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-01-01 01:02:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-01-01 00:56:24 +0000"
     },
     "done": true
   },
