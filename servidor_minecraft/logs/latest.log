@@ -994,3 +994,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jan2025 20:34:49.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12519ms or 250 ticks behind
 [04Jan2025 20:37:34.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [The Copper Age]
 [04Jan2025 20:45:38.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] este mensaje es para que el server se mantenga vivo (admin socializando)
+[04Jan2025 20:53:36.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.234.222.222:57007] logged in with entity id 5399 at (305.16374843214385, 63.0, -35.62292725664612)
+[04Jan2025 20:53:36.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[04Jan2025 20:53:36.600] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[04Jan2025 20:53:38.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[04Jan2025 20:54:00.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6847ms or 136 ticks behind
+[04Jan2025 20:54:35.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.232.156.208:55837] logged in with entity id 6631 at (317.3081839818388, 63.0, 77.53315298338183)
+[04Jan2025 20:54:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[04Jan2025 20:54:36.129] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[04Jan2025 20:54:38.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Jan2025 20:54:44.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved wrongly!
+[04Jan2025 20:54:55.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[04Jan2025 20:55:14.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[04Jan2025 20:55:41.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:58305] logged in with entity id 7613 at (2718.526623992847, 110.0, 2782.518673515208)
+[04Jan2025 20:55:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[04Jan2025 20:55:41.484] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[04Jan2025 20:55:42.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[04Jan2025 20:56:01.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
+[04Jan2025 20:56:26.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Jan2025 20:56:43.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
