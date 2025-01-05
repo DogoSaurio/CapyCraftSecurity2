@@ -34,3 +34,15 @@
 [05Jan2025 00:22:17.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [05Jan2025 00:23:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [War Pigs]
 [05Jan2025 00:25:14.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[05Jan2025 00:27:23.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Jan2025 00:27:43.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4717ms or 94 ticks behind
+[05Jan2025 00:27:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [It Belongs in a Museum]
+[05Jan2025 00:28:53.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[05Jan2025 00:29:15.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/200323, l='ServerLevel[world]', x=355.83, y=63.19, z=71.30] died, message: 'Farmer was slain by Zombie'
+[05Jan2025 00:29:50.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Jan2025 00:30:09.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[05Jan2025 00:32:35.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[05Jan2025 00:32:52.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[05Jan2025 00:32:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[05Jan2025 00:32:57.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
+[05Jan2025 00:35:35.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind

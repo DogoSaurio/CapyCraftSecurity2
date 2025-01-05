@@ -11355,6 +11355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 00:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 00:20:55 +0000"
@@ -11370,6 +11376,18 @@
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_nether_wart": "2025-01-05 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-05 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-05 00:28:06 +0000"
     },
     "done": true
   },
@@ -11421,9 +11439,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-05 00:27:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-05 00:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 00:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-05 00:28:06 +0000"
     },
     "done": true
   },
