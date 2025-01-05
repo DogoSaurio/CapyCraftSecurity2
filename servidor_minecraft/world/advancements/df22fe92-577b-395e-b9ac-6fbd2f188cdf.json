@@ -329,6 +329,7 @@
       "minecraft:frozen_ocean": "2024-12-23 00:19:33 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-23 00:35:50 +0000",
       "minecraft:windswept_forest": "2024-12-23 02:28:52 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-05 01:37:21 +0000",
       "minecraft:snowy_beach": "2024-12-23 01:26:01 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-23 01:55:02 +0000",
       "minecraft:plains": "2024-12-25 06:11:46 +0000"
@@ -11464,6 +11465,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-01-05 01:04:21 +0000"
@@ -11476,9 +11483,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-05 01:41:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-05 01:04:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-05 01:42:55 +0000"
     },
     "done": true
   },
