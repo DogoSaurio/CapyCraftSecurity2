@@ -338,3 +338,14 @@
 [05Jan2025 01:46:57.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
 [05Jan2025 01:47:17.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
 [05Jan2025 01:47:48.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -16.208577485605474,7.454080744772078,-1.4375040483089379
+[05Jan2025 01:50:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[05Jan2025 01:50:22.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> ad
+[05Jan2025 01:50:23.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[05Jan2025 01:52:44.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[05Jan2025 01:52:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[05Jan2025 01:53:14.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.184.32.72:52313] logged in with entity id 303648 at (2787.680761823401, 64.0, 2900.322601779409)
+[05Jan2025 01:53:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[05Jan2025 01:53:14.833] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[05Jan2025 01:53:18.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Jan2025 01:53:32.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga moved too quickly! -14.257854018608441,-1.204838420338909,11.75188558823816
+[05Jan2025 01:53:38.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
