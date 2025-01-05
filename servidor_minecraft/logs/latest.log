@@ -19,3 +19,18 @@
 [05Jan2025 00:15:47.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [05Jan2025 00:16:06.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
 [05Jan2025 00:16:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Desperate Measures]
+[05Jan2025 00:17:03.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Timed out
+[05Jan2025 00:17:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[05Jan2025 00:17:03.637] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 00:18:10.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.98.139.244:38361] logged in with entity id 200309 at (325.93907990593783, 63.0, 77.5205535516412)
+[05Jan2025 00:18:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[05Jan2025 00:18:10.200] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[05Jan2025 00:18:15.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[05Jan2025 00:18:31.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.122.70.63:38411] logged in with entity id 201042 at (127.54834881484587, -48.0, 96.55567958748928)
+[05Jan2025 00:18:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[05Jan2025 00:18:31.483] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[05Jan2025 00:18:40.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[05Jan2025 00:19:04.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8394ms or 167 ticks behind
+[05Jan2025 00:22:17.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Jan2025 00:23:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [War Pigs]
+[05Jan2025 00:25:14.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind

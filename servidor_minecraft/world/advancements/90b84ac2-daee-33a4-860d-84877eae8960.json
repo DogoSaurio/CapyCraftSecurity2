@@ -11300,15 +11300,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 23:25:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-01-05 00:09:37 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "create:mechanical_crafter": {
     "criteria": {
-      "killed_fire_dragon": "2025-01-04 23:25:37 +0000"
+      "0": "2025-01-05 00:14:54 +0000"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-01-05 00:16:29 +0000"
     },
     "done": true
   },

@@ -12306,27 +12306,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-01-04 23:57:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-01-04 23:25:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-04 23:25:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-01-04 23:57:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
-      "has_wither_rose": "2025-01-04 23:25:33 +0000"
+      "has_item": "2025-01-04 23:57:45 +0000"
     },
     "done": true
   },
