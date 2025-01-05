@@ -12063,12 +12063,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_notor": {
-    "criteria": {
-      "killed": "2025-01-04 21:13:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-04 21:09:56 +0000"
@@ -12081,33 +12075,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-01-04 21:54:46 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
-    "criteria": {
-      "requirement": "2025-01-04 21:14:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-01-04 22:34:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-04 21:09:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
     },
     "done": true
   },
@@ -12117,27 +12087,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-01-04 22:33:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-04 21:09:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
-    "criteria": {
-      "inscription_table": "2025-01-04 22:28:21 +0000"
     },
     "done": true
   },
@@ -12150,42 +12102,6 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-04 21:09:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-01-04 22:10:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-01-04 21:53:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2025-01-04 22:10:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-01-04 21:53:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
-    "criteria": {
-      "in_catacombs": "2025-01-04 21:10:48 +0000"
     },
     "done": true
   },
@@ -12207,9 +12123,58 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-04 21:09:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-01-04 21:10:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-01-04 21:10:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-01-04 21:13:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-01-04 21:14:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-01-04 21:18:52 +0000",
+      "azure": "2025-01-04 21:20:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-04 21:53:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-01-04 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-01-04 21:54:46 +0000"
     },
     "done": true
   },
@@ -12219,22 +12184,177 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-01-04 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-01-04 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-04 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2025-01-04 22:28:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-01-04 22:33:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-01-04 22:34:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2025-01-04 22:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_sandstone": "2025-01-04 21:09:56 +0000"
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/neodymium": {
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "scarlet": "2025-01-04 21:18:52 +0000",
-      "azure": "2025-01-04 21:20:10 +0000"
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-05 00:55:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-01-05 00:50:52 +0000"
     },
     "done": true
   },

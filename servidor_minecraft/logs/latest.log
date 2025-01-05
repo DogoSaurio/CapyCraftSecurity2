@@ -46,3 +46,67 @@
 [05Jan2025 00:32:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
 [05Jan2025 00:32:57.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
 [05Jan2025 00:35:35.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[05Jan2025 00:37:50.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Jan2025 00:38:10.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[05Jan2025 00:40:24.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[05Jan2025 00:43:30.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -14.789721393062962,-2.319715689085683,11.189442383494509
+[05Jan2025 00:43:32.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[05Jan2025 00:44:10.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[05Jan2025 00:45:51.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.256] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:45:57.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:48:00.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[05Jan2025 00:48:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Ice Dragon
+[05Jan2025 00:48:46.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.234.222.222:43619] logged in with entity id 235329 at (282.6067274596558, 63.0, -53.82570925561405)
+[05Jan2025 00:48:46.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[05Jan2025 00:48:46.622] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[05Jan2025 00:48:49.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[05Jan2025 00:49:06.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[05Jan2025 00:49:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was frozen by Ice Dragon
+[05Jan2025 00:49:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was turned to ice by Ice Dragon
+[05Jan2025 00:50:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was frozen by Ice Dragon
+[05Jan2025 00:50:27.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[05Jan2025 00:50:45.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[05Jan2025 00:55:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Mother of Dragons]
+[05Jan2025 00:55:35.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 00:55:37.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[05Jan2025 00:56:12.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Mother of Dragons]
+[05Jan2025 00:56:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Mother of Dragons]
+[05Jan2025 00:56:53.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[05Jan2025 00:58:14.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=-19, z=915} BlockPos{x=131, y=-18, z=914}
+[05Jan2025 00:58:25.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jan2025 00:59:16.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.184.32.72:44301] logged in with entity id 245783 at (409.30000001192093, 77.0, 278.30000001192093)
+[05Jan2025 00:59:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[05Jan2025 00:59:16.778] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[05Jan2025 00:59:29.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Jan2025 01:00:08.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 01:00:27.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Jan2025 01:00:35.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=-19, z=926} BlockPos{x=-26, y=-19, z=926}
+[05Jan2025 01:00:51.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jan2025 01:01:09.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[05Jan2025 01:01:33.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jan2025 01:02:04.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Jan2025 01:02:26.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[05Jan2025 01:02:46.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
+[05Jan2025 01:03:10.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Jan2025 01:03:27.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[05Jan2025 01:03:45.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[05Jan2025 01:04:03.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[05Jan2025 01:04:23.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Jan2025 01:04:41.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[05Jan2025 01:04:58.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[05Jan2025 01:05:16.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[05Jan2025 01:05:37.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jan2025 01:05:56.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[05Jan2025 01:06:16.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Jan2025 01:06:34.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[05Jan2025 01:06:52.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[05Jan2025 01:06:55.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[05Jan2025 01:06:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[05Jan2025 01:08:03.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[05Jan2025 01:08:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[05Jan2025 01:08:18.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
