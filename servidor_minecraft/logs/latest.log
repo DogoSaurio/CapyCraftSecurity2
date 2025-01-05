@@ -397,3 +397,5 @@
 [05Jan2025 02:16:11.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
 [05Jan2025 02:16:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
 [05Jan2025 02:16:23.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8420ms or 168 ticks behind
+[05Jan2025 02:21:27.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Jan2025 02:21:44.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
