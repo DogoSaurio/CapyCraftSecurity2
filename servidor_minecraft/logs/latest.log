@@ -110,3 +110,8 @@
 [05Jan2025 01:08:03.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
 [05Jan2025 01:08:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
 [05Jan2025 01:08:18.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[05Jan2025 01:08:33.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.003673991203641,-0.12129684053920187,-1.849783350068563
+[05Jan2025 01:08:45.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12600ms or 252 ticks behind
+[05Jan2025 01:09:02.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[05Jan2025 01:17:30.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jan2025 01:17:51.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5285ms or 105 ticks behind
