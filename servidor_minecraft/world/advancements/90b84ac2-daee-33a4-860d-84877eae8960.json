@@ -11300,6 +11300,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-01-05 00:09:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-04 23:25:37 +0000"

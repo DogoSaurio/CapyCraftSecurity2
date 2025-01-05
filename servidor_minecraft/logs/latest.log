@@ -11,3 +11,11 @@
 [05Jan2025 00:00:21.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=-44, z=-17} BlockPos{x=-5, y=-44, z=-16}
 [05Jan2025 00:04:05.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
 [05Jan2025 00:04:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[05Jan2025 00:11:48.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[05Jan2025 00:11:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[05Jan2025 00:12:07.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.184.32.72:59507] logged in with entity id 196707 at (394.5220040851913, 60.0, 386.0541319624938)
+[05Jan2025 00:12:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[05Jan2025 00:12:08.212] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[05Jan2025 00:15:47.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[05Jan2025 00:16:06.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
+[05Jan2025 00:16:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Desperate Measures]
